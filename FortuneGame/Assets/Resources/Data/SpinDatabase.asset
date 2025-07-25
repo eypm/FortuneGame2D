@@ -1,0 +1,1061 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4a16b30d4040444a9a8f28551920d25, type: 3}
+  m_Name: SpinDatabase
+  m_EditorClassIdentifier: 
+  zoneDatas:
+  - zoneLevel: 1
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 22
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 40000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 2
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 51
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 40000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 3
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 30000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 75
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 4
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 30000
+      rewardType: 2
+    - rewardAmount: 11
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 5
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 55
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 50000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 6
+    bombChance: 0
+    zoneType: 2
+  - zoneLevel: 6
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 10000
+      rewardType: 2
+    - rewardAmount: 17
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 7
+    isSafeZone: 1
+    rewards:
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 10000
+      rewardType: 2
+    - rewardAmount: 85
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 8
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 10
+      rewardType: 1
+    - rewardAmount: 50000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 9
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 10000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 52
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 10
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 60000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 26
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 11
+    isSafeZone: 1
+    rewards:
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 64
+      rewardType: 1
+    - rewardAmount: 30000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 12
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 51
+      rewardType: 1
+    - rewardAmount: 70000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 13
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 60000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 17
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 14
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 57
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 70000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 15
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 35
+      rewardType: 1
+    - rewardAmount: 60000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 16
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 70000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 27
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 17
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 82
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 80000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 18
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 10000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 87
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 19
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 7
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 50000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 20
+    isSafeZone: 1
+    rewards:
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 51
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 10000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 21
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 45
+      rewardType: 1
+    - rewardAmount: 90000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 22
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 20000
+      rewardType: 2
+    - rewardAmount: 65
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 23
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 60000
+      rewardType: 2
+    - rewardAmount: 21
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 24
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 12
+      rewardType: 1
+    - rewardAmount: 90000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 25
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 90000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 13
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 26
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 90000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 21
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 27
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 40000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 63
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 28
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 80000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 61
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 29
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 60000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 18
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 30
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 84
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 90000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 8
+    bombChance: 0
+    zoneType: 3
+  - zoneLevel: 31
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 30000
+      rewardType: 2
+    - rewardAmount: 71
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 32
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 8
+      rewardType: 1
+    - rewardAmount: 60000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 33
+    isSafeZone: 1
+    rewards:
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 23
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 50000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 34
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 100000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 19
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 35
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 78
+      rewardType: 1
+    - rewardAmount: 30000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 36
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 50000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 39
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 37
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 50000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 10
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 38
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 20000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 28
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 39
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 16
+      rewardType: 1
+    - rewardAmount: 60000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 40
+    isSafeZone: 1
+    rewards:
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 90000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 51
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 41
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 81
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 90000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 42
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 130000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 93
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 43
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 42
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 110000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 44
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 36
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 40000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 45
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 99
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 60000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 46
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 60000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 8
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 47
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 80000
+      rewardType: 2
+    - rewardAmount: 11
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 48
+    isSafeZone: 1
+    rewards:
+    - rewardAmount: 20000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 25
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 49
+    isSafeZone: 0
+    rewards:
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 30000
+      rewardType: 2
+    - rewardAmount: 50
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1
+  - zoneLevel: 50
+    isSafeZone: 1
+    rewards:
+    - rewardAmount: 1
+      rewardType: 6
+    - rewardAmount: 1
+      rewardType: 4
+    - rewardAmount: 1
+      rewardType: 8
+    - rewardAmount: 27
+      rewardType: 1
+    - rewardAmount: 1
+      rewardType: 5
+    - rewardAmount: 10000
+      rewardType: 2
+    - rewardAmount: 1
+      rewardType: 7
+    - rewardAmount: 1
+      rewardType: 3
+    bombChance: 0.15
+    zoneType: 1

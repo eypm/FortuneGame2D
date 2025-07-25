@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 404cf7cfe9174ea43bc69792f462a224, type: 3}
+  m_Name: Audio Settings
+  m_EditorClassIdentifier: 
+  sounds:
+    buttonClick:
+      clipPath: Audio/button_click_clip
+      volume: 1
+      pitch: 1
+      randomizePitch: 0
+      pitchRange: 0.2
+      loop: 0
+    popupOpen:
+      clipPath: Audio/popup_opening_clip
+      volume: 1
+      pitch: 1
+      randomizePitch: 0
+      pitchRange: 0.2
+      loop: 0
+    buttonGeneric:
+      clipPath: Audio/button_generic_clip
+      volume: 1
+      pitch: 1
+      randomizePitch: 0
+      pitchRange: 0.2
+      loop: 0
+    spin:
+      clipPath: Audio/spin_clip
+      volume: 1
+      pitch: 0.88
+      randomizePitch: 0
+      pitchRange: 0.2
+      loop: 0
+    gameMusic:
+      clipPath: Audio/game_music
+      volume: 0.7
+      pitch: 0.87
+      randomizePitch: 0
+      pitchRange: 4.65
+      loop: 1
+    rewardCollecting:
+      clipPath: 
+      volume: 1
+      pitch: 0.81
+      randomizePitch: 0
+      pitchRange: 0.2
+      loop: 0
+    headerAnimationCoin:
+      clipPath: 
+      volume: 1
+      pitch: 1
+      randomizePitch: 0
+      pitchRange: 0.2
+      loop: 0
+    spinRewardOpening:
+      clipPath: Audio/reward_opening_clip
+      volume: 0.65
+      pitch: 1.1
+      randomizePitch: 0
+      pitchRange: 0.2
+      loop: 0
+    spinReward:
+      clipPath: Audio/spin_reward_clip
+      volume: 1
+      pitch: 0.9
+      randomizePitch: 0
+      pitchRange: 0.2
+      loop: 0
+    failed:
+      clipPath: Audio/failed_clip
+      volume: 0.8
+      pitch: 1.2
+      randomizePitch: 0
+      pitchRange: 0.2
+      loop: 0

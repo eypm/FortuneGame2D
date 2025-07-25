@@ -1,0 +1,3827 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5f6b5844db9d2a4697a4af36289db44, type: 3}
+  m_Name: ChestDatabase
+  m_EditorClassIdentifier: 
+  chests:
+  - chestType: 1
+    levels:
+    - level: 1
+      rewards:
+      - cardType: 7
+        point: 1
+    - level: 2
+      rewards:
+      - cardType: 5
+        point: 2
+    - level: 3
+      rewards:
+      - cardType: 7
+        point: 1
+    - level: 4
+      rewards:
+      - cardType: 3
+        point: 3
+    - level: 5
+      rewards:
+      - cardType: 6
+        point: 2
+    - level: 6
+      rewards:
+      - cardType: 6
+        point: 2
+    - level: 7
+      rewards:
+      - cardType: 2
+        point: 4
+    - level: 8
+      rewards:
+      - cardType: 8
+        point: 4
+    - level: 9
+      rewards:
+      - cardType: 2
+        point: 2
+    - level: 10
+      rewards:
+      - cardType: 1
+        point: 3
+    - level: 11
+      rewards:
+      - cardType: 6
+        point: 2
+    - level: 12
+      rewards:
+      - cardType: 3
+        point: 1
+    - level: 13
+      rewards:
+      - cardType: 4
+        point: 2
+    - level: 14
+      rewards:
+      - cardType: 6
+        point: 1
+    - level: 15
+      rewards:
+      - cardType: 4
+        point: 3
+    - level: 16
+      rewards:
+      - cardType: 9
+        point: 3
+    - level: 17
+      rewards:
+      - cardType: 5
+        point: 4
+    - level: 18
+      rewards:
+      - cardType: 7
+        point: 2
+    - level: 19
+      rewards:
+      - cardType: 7
+        point: 2
+    - level: 20
+      rewards:
+      - cardType: 9
+        point: 1
+    - level: 21
+      rewards:
+      - cardType: 8
+        point: 5
+    - level: 22
+      rewards:
+      - cardType: 2
+        point: 2
+    - level: 23
+      rewards:
+      - cardType: 5
+        point: 6
+    - level: 24
+      rewards:
+      - cardType: 1
+        point: 1
+    - level: 25
+      rewards:
+      - cardType: 8
+        point: 5
+    - level: 26
+      rewards:
+      - cardType: 7
+        point: 6
+    - level: 27
+      rewards:
+      - cardType: 2
+        point: 1
+    - level: 28
+      rewards:
+      - cardType: 4
+        point: 2
+    - level: 29
+      rewards:
+      - cardType: 7
+        point: 8
+    - level: 30
+      rewards:
+      - cardType: 9
+        point: 7
+    - level: 31
+      rewards:
+      - cardType: 2
+        point: 1
+    - level: 32
+      rewards:
+      - cardType: 8
+        point: 8
+    - level: 33
+      rewards:
+      - cardType: 8
+        point: 8
+    - level: 34
+      rewards:
+      - cardType: 2
+        point: 6
+    - level: 35
+      rewards:
+      - cardType: 9
+        point: 2
+    - level: 36
+      rewards:
+      - cardType: 5
+        point: 6
+    - level: 37
+      rewards:
+      - cardType: 6
+        point: 5
+    - level: 38
+      rewards:
+      - cardType: 8
+        point: 5
+    - level: 39
+      rewards:
+      - cardType: 1
+        point: 1
+    - level: 40
+      rewards:
+      - cardType: 4
+        point: 3
+    - level: 41
+      rewards:
+      - cardType: 4
+        point: 11
+    - level: 42
+      rewards:
+      - cardType: 2
+        point: 5
+    - level: 43
+      rewards:
+      - cardType: 9
+        point: 10
+    - level: 44
+      rewards:
+      - cardType: 1
+        point: 9
+    - level: 45
+      rewards:
+      - cardType: 1
+        point: 1
+    - level: 46
+      rewards:
+      - cardType: 2
+        point: 5
+    - level: 47
+      rewards:
+      - cardType: 9
+        point: 11
+    - level: 48
+      rewards:
+      - cardType: 7
+        point: 4
+    - level: 49
+      rewards:
+      - cardType: 8
+        point: 3
+    - level: 50
+      rewards:
+      - cardType: 6
+        point: 7
+    - level: 51
+      rewards:
+      - cardType: 6
+        point: 11
+    - level: 52
+      rewards:
+      - cardType: 6
+        point: 3
+    - level: 53
+      rewards:
+      - cardType: 7
+        point: 4
+    - level: 54
+      rewards:
+      - cardType: 1
+        point: 11
+    - level: 55
+      rewards:
+      - cardType: 8
+        point: 1
+    - level: 56
+      rewards:
+      - cardType: 1
+        point: 2
+    - level: 57
+      rewards:
+      - cardType: 9
+        point: 9
+    - level: 58
+      rewards:
+      - cardType: 4
+        point: 5
+    - level: 59
+      rewards:
+      - cardType: 4
+        point: 3
+    - level: 60
+      rewards:
+      - cardType: 1
+        point: 14
+    - level: 61
+      rewards:
+      - cardType: 6
+        point: 14
+    - level: 62
+      rewards:
+      - cardType: 2
+        point: 9
+    - level: 63
+      rewards:
+      - cardType: 3
+        point: 8
+    - level: 64
+      rewards:
+      - cardType: 7
+        point: 11
+    - level: 65
+      rewards:
+      - cardType: 6
+        point: 11
+    - level: 66
+      rewards:
+      - cardType: 8
+        point: 16
+    - level: 67
+      rewards:
+      - cardType: 5
+        point: 4
+    - level: 68
+      rewards:
+      - cardType: 1
+        point: 14
+    - level: 69
+      rewards:
+      - cardType: 2
+        point: 5
+    - level: 70
+      rewards:
+      - cardType: 2
+        point: 5
+    - level: 71
+      rewards:
+      - cardType: 4
+        point: 1
+    - level: 72
+      rewards:
+      - cardType: 6
+        point: 5
+    - level: 73
+      rewards:
+      - cardType: 7
+        point: 4
+    - level: 74
+      rewards:
+      - cardType: 2
+        point: 2
+    - level: 75
+      rewards:
+      - cardType: 5
+        point: 7
+    - level: 76
+      rewards:
+      - cardType: 6
+        point: 14
+    - level: 77
+      rewards:
+      - cardType: 3
+        point: 17
+    - level: 78
+      rewards:
+      - cardType: 8
+        point: 15
+    - level: 79
+      rewards:
+      - cardType: 3
+        point: 3
+    - level: 80
+      rewards:
+      - cardType: 4
+        point: 13
+    - level: 81
+      rewards:
+      - cardType: 5
+        point: 13
+    - level: 82
+      rewards:
+      - cardType: 5
+        point: 14
+    - level: 83
+      rewards:
+      - cardType: 6
+        point: 1
+    - level: 84
+      rewards:
+      - cardType: 8
+        point: 9
+    - level: 85
+      rewards:
+      - cardType: 3
+        point: 11
+    - level: 86
+      rewards:
+      - cardType: 7
+        point: 15
+    - level: 87
+      rewards:
+      - cardType: 9
+        point: 15
+    - level: 88
+      rewards:
+      - cardType: 7
+        point: 9
+    - level: 89
+      rewards:
+      - cardType: 7
+        point: 12
+    - level: 90
+      rewards:
+      - cardType: 5
+        point: 14
+    - level: 91
+      rewards:
+      - cardType: 6
+        point: 5
+    - level: 92
+      rewards:
+      - cardType: 6
+        point: 11
+    - level: 93
+      rewards:
+      - cardType: 8
+        point: 5
+    - level: 94
+      rewards:
+      - cardType: 2
+        point: 20
+    - level: 95
+      rewards:
+      - cardType: 3
+        point: 18
+    - level: 96
+      rewards:
+      - cardType: 5
+        point: 1
+    - level: 97
+      rewards:
+      - cardType: 6
+        point: 12
+    - level: 98
+      rewards:
+      - cardType: 2
+        point: 14
+    - level: 99
+      rewards:
+      - cardType: 1
+        point: 5
+    - level: 100
+      rewards:
+      - cardType: 6
+        point: 1
+  - chestType: 2
+    levels:
+    - level: 1
+      rewards:
+      - cardType: 5
+        point: 3
+    - level: 2
+      rewards:
+      - cardType: 9
+        point: 3
+    - level: 3
+      rewards:
+      - cardType: 6
+        point: 5
+    - level: 4
+      rewards:
+      - cardType: 7
+        point: 4
+    - level: 5
+      rewards:
+      - cardType: 2
+        point: 2
+    - level: 6
+      rewards:
+      - cardType: 8
+        point: 6
+    - level: 7
+      rewards:
+      - cardType: 4
+        point: 4
+    - level: 8
+      rewards:
+      - cardType: 6
+        point: 2
+    - level: 9
+      rewards:
+      - cardType: 2
+        point: 1
+    - level: 10
+      rewards:
+      - cardType: 7
+        point: 3
+    - level: 11
+      rewards:
+      - cardType: 1
+        point: 7
+    - level: 12
+      rewards:
+      - cardType: 2
+        point: 3
+    - level: 13
+      rewards:
+      - cardType: 5
+        point: 7
+    - level: 14
+      rewards:
+      - cardType: 1
+        point: 5
+    - level: 15
+      rewards:
+      - cardType: 1
+        point: 5
+    - level: 16
+      rewards:
+      - cardType: 3
+        point: 4
+    - level: 17
+      rewards:
+      - cardType: 4
+        point: 6
+    - level: 18
+      rewards:
+      - cardType: 3
+        point: 7
+    - level: 19
+      rewards:
+      - cardType: 7
+        point: 9
+    - level: 20
+      rewards:
+      - cardType: 2
+        point: 9
+    - level: 21
+      rewards:
+      - cardType: 9
+        point: 6
+    - level: 22
+      rewards:
+      - cardType: 8
+        point: 9
+    - level: 23
+      rewards:
+      - cardType: 8
+        point: 8
+    - level: 24
+      rewards:
+      - cardType: 5
+        point: 6
+    - level: 25
+      rewards:
+      - cardType: 9
+        point: 1
+    - level: 26
+      rewards:
+      - cardType: 4
+        point: 3
+    - level: 27
+      rewards:
+      - cardType: 1
+        point: 1
+    - level: 28
+      rewards:
+      - cardType: 2
+        point: 3
+    - level: 29
+      rewards:
+      - cardType: 4
+        point: 1
+    - level: 30
+      rewards:
+      - cardType: 1
+        point: 9
+    - level: 31
+      rewards:
+      - cardType: 4
+        point: 8
+    - level: 32
+      rewards:
+      - cardType: 8
+        point: 1
+    - level: 33
+      rewards:
+      - cardType: 9
+        point: 8
+    - level: 34
+      rewards:
+      - cardType: 6
+        point: 8
+    - level: 35
+      rewards:
+      - cardType: 5
+        point: 12
+    - level: 36
+      rewards:
+      - cardType: 1
+        point: 5
+    - level: 37
+      rewards:
+      - cardType: 8
+        point: 1
+    - level: 38
+      rewards:
+      - cardType: 4
+        point: 2
+    - level: 39
+      rewards:
+      - cardType: 5
+        point: 13
+    - level: 40
+      rewards:
+      - cardType: 5
+        point: 7
+    - level: 41
+      rewards:
+      - cardType: 2
+        point: 4
+    - level: 42
+      rewards:
+      - cardType: 3
+        point: 12
+    - level: 43
+      rewards:
+      - cardType: 6
+        point: 2
+    - level: 44
+      rewards:
+      - cardType: 5
+        point: 4
+    - level: 45
+      rewards:
+      - cardType: 4
+        point: 9
+    - level: 46
+      rewards:
+      - cardType: 5
+        point: 10
+    - level: 47
+      rewards:
+      - cardType: 5
+        point: 2
+    - level: 48
+      rewards:
+      - cardType: 6
+        point: 9
+    - level: 49
+      rewards:
+      - cardType: 2
+        point: 8
+    - level: 50
+      rewards:
+      - cardType: 1
+        point: 1
+    - level: 51
+      rewards:
+      - cardType: 2
+        point: 10
+    - level: 52
+      rewards:
+      - cardType: 3
+        point: 4
+    - level: 53
+      rewards:
+      - cardType: 1
+        point: 4
+    - level: 54
+      rewards:
+      - cardType: 2
+        point: 1
+    - level: 55
+      rewards:
+      - cardType: 2
+        point: 15
+    - level: 56
+      rewards:
+      - cardType: 4
+        point: 8
+    - level: 57
+      rewards:
+      - cardType: 1
+        point: 5
+    - level: 58
+      rewards:
+      - cardType: 7
+        point: 13
+    - level: 59
+      rewards:
+      - cardType: 2
+        point: 15
+    - level: 60
+      rewards:
+      - cardType: 5
+        point: 4
+    - level: 61
+      rewards:
+      - cardType: 3
+        point: 5
+    - level: 62
+      rewards:
+      - cardType: 2
+        point: 14
+    - level: 63
+      rewards:
+      - cardType: 2
+        point: 14
+    - level: 64
+      rewards:
+      - cardType: 3
+        point: 1
+    - level: 65
+      rewards:
+      - cardType: 7
+        point: 12
+    - level: 66
+      rewards:
+      - cardType: 3
+        point: 9
+    - level: 67
+      rewards:
+      - cardType: 2
+        point: 11
+    - level: 68
+      rewards:
+      - cardType: 8
+        point: 19
+    - level: 69
+      rewards:
+      - cardType: 6
+        point: 19
+    - level: 70
+      rewards:
+      - cardType: 4
+        point: 8
+    - level: 71
+      rewards:
+      - cardType: 6
+        point: 18
+    - level: 72
+      rewards:
+      - cardType: 3
+        point: 7
+    - level: 73
+      rewards:
+      - cardType: 7
+        point: 9
+    - level: 74
+      rewards:
+      - cardType: 4
+        point: 14
+    - level: 75
+      rewards:
+      - cardType: 7
+        point: 4
+    - level: 76
+      rewards:
+      - cardType: 7
+        point: 16
+    - level: 77
+      rewards:
+      - cardType: 6
+        point: 20
+    - level: 78
+      rewards:
+      - cardType: 8
+        point: 7
+    - level: 79
+      rewards:
+      - cardType: 6
+        point: 7
+    - level: 80
+      rewards:
+      - cardType: 1
+        point: 3
+    - level: 81
+      rewards:
+      - cardType: 1
+        point: 16
+    - level: 82
+      rewards:
+      - cardType: 8
+        point: 3
+    - level: 83
+      rewards:
+      - cardType: 7
+        point: 10
+    - level: 84
+      rewards:
+      - cardType: 7
+        point: 19
+    - level: 85
+      rewards:
+      - cardType: 4
+        point: 2
+    - level: 86
+      rewards:
+      - cardType: 2
+        point: 11
+    - level: 87
+      rewards:
+      - cardType: 7
+        point: 6
+    - level: 88
+      rewards:
+      - cardType: 7
+        point: 12
+    - level: 89
+      rewards:
+      - cardType: 2
+        point: 20
+    - level: 90
+      rewards:
+      - cardType: 2
+        point: 3
+    - level: 91
+      rewards:
+      - cardType: 8
+        point: 20
+    - level: 92
+      rewards:
+      - cardType: 3
+        point: 20
+    - level: 93
+      rewards:
+      - cardType: 5
+        point: 20
+    - level: 94
+      rewards:
+      - cardType: 5
+        point: 17
+    - level: 95
+      rewards:
+      - cardType: 5
+        point: 4
+    - level: 96
+      rewards:
+      - cardType: 1
+        point: 20
+    - level: 97
+      rewards:
+      - cardType: 8
+        point: 3
+    - level: 98
+      rewards:
+      - cardType: 2
+        point: 10
+    - level: 99
+      rewards:
+      - cardType: 9
+        point: 20
+    - level: 100
+      rewards:
+      - cardType: 3
+        point: 1
+  - chestType: 3
+    levels:
+    - level: 1
+      rewards:
+      - cardType: 4
+        point: 4
+      - cardType: 8
+        point: 2
+    - level: 2
+      rewards:
+      - cardType: 6
+        point: 7
+      - cardType: 3
+        point: 4
+    - level: 3
+      rewards:
+      - cardType: 8
+        point: 3
+    - level: 4
+      rewards:
+      - cardType: 9
+        point: 7
+    - level: 5
+      rewards:
+      - cardType: 1
+        point: 6
+      - cardType: 5
+        point: 8
+    - level: 6
+      rewards:
+      - cardType: 2
+        point: 8
+      - cardType: 6
+        point: 6
+    - level: 7
+      rewards:
+      - cardType: 1
+        point: 7
+      - cardType: 7
+        point: 6
+    - level: 8
+      rewards:
+      - cardType: 6
+        point: 2
+      - cardType: 5
+        point: 6
+    - level: 9
+      rewards:
+      - cardType: 1
+        point: 4
+    - level: 10
+      rewards:
+      - cardType: 4
+        point: 5
+    - level: 11
+      rewards:
+      - cardType: 4
+        point: 7
+    - level: 12
+      rewards:
+      - cardType: 8
+        point: 10
+      - cardType: 1
+        point: 10
+    - level: 13
+      rewards:
+      - cardType: 1
+        point: 8
+      - cardType: 4
+        point: 6
+    - level: 14
+      rewards:
+      - cardType: 7
+        point: 5
+    - level: 15
+      rewards:
+      - cardType: 2
+        point: 6
+    - level: 16
+      rewards:
+      - cardType: 4
+        point: 3
+    - level: 17
+      rewards:
+      - cardType: 4
+        point: 4
+      - cardType: 2
+        point: 4
+    - level: 18
+      rewards:
+      - cardType: 6
+        point: 1
+      - cardType: 3
+        point: 1
+    - level: 19
+      rewards:
+      - cardType: 1
+        point: 2
+    - level: 20
+      rewards:
+      - cardType: 4
+        point: 6
+    - level: 21
+      rewards:
+      - cardType: 9
+        point: 7
+    - level: 22
+      rewards:
+      - cardType: 6
+        point: 5
+    - level: 23
+      rewards:
+      - cardType: 9
+        point: 3
+    - level: 24
+      rewards:
+      - cardType: 4
+        point: 10
+    - level: 25
+      rewards:
+      - cardType: 7
+        point: 8
+    - level: 26
+      rewards:
+      - cardType: 5
+        point: 6
+      - cardType: 5
+        point: 2
+    - level: 27
+      rewards:
+      - cardType: 9
+        point: 9
+    - level: 28
+      rewards:
+      - cardType: 7
+        point: 8
+      - cardType: 6
+        point: 12
+    - level: 29
+      rewards:
+      - cardType: 3
+        point: 7
+    - level: 30
+      rewards:
+      - cardType: 1
+        point: 2
+    - level: 31
+      rewards:
+      - cardType: 2
+        point: 1
+    - level: 32
+      rewards:
+      - cardType: 1
+        point: 7
+    - level: 33
+      rewards:
+      - cardType: 6
+        point: 7
+      - cardType: 1
+        point: 15
+    - level: 34
+      rewards:
+      - cardType: 9
+        point: 9
+    - level: 35
+      rewards:
+      - cardType: 1
+        point: 1
+    - level: 36
+      rewards:
+      - cardType: 7
+        point: 3
+    - level: 37
+      rewards:
+      - cardType: 9
+        point: 15
+    - level: 38
+      rewards:
+      - cardType: 2
+        point: 1
+    - level: 39
+      rewards:
+      - cardType: 1
+        point: 12
+      - cardType: 6
+        point: 11
+    - level: 40
+      rewards:
+      - cardType: 7
+        point: 8
+    - level: 41
+      rewards:
+      - cardType: 6
+        point: 5
+    - level: 42
+      rewards:
+      - cardType: 4
+        point: 8
+      - cardType: 2
+        point: 8
+    - level: 43
+      rewards:
+      - cardType: 9
+        point: 12
+    - level: 44
+      rewards:
+      - cardType: 9
+        point: 9
+      - cardType: 4
+        point: 4
+    - level: 45
+      rewards:
+      - cardType: 9
+        point: 6
+      - cardType: 7
+        point: 1
+    - level: 46
+      rewards:
+      - cardType: 6
+        point: 17
+    - level: 47
+      rewards:
+      - cardType: 8
+        point: 3
+      - cardType: 9
+        point: 12
+    - level: 48
+      rewards:
+      - cardType: 9
+        point: 18
+    - level: 49
+      rewards:
+      - cardType: 2
+        point: 13
+      - cardType: 5
+        point: 11
+    - level: 50
+      rewards:
+      - cardType: 9
+        point: 9
+      - cardType: 5
+        point: 13
+    - level: 51
+      rewards:
+      - cardType: 7
+        point: 15
+    - level: 52
+      rewards:
+      - cardType: 4
+        point: 2
+    - level: 53
+      rewards:
+      - cardType: 6
+        point: 5
+      - cardType: 5
+        point: 17
+    - level: 54
+      rewards:
+      - cardType: 4
+        point: 11
+    - level: 55
+      rewards:
+      - cardType: 1
+        point: 14
+      - cardType: 1
+        point: 4
+    - level: 56
+      rewards:
+      - cardType: 7
+        point: 19
+      - cardType: 3
+        point: 1
+    - level: 57
+      rewards:
+      - cardType: 9
+        point: 6
+      - cardType: 3
+        point: 10
+    - level: 58
+      rewards:
+      - cardType: 6
+        point: 14
+    - level: 59
+      rewards:
+      - cardType: 4
+        point: 1
+    - level: 60
+      rewards:
+      - cardType: 9
+        point: 6
+      - cardType: 8
+        point: 9
+    - level: 61
+      rewards:
+      - cardType: 3
+        point: 19
+    - level: 62
+      rewards:
+      - cardType: 2
+        point: 14
+      - cardType: 9
+        point: 5
+    - level: 63
+      rewards:
+      - cardType: 5
+        point: 9
+      - cardType: 8
+        point: 13
+    - level: 64
+      rewards:
+      - cardType: 1
+        point: 11
+      - cardType: 1
+        point: 17
+    - level: 65
+      rewards:
+      - cardType: 6
+        point: 2
+    - level: 66
+      rewards:
+      - cardType: 8
+        point: 11
+    - level: 67
+      rewards:
+      - cardType: 8
+        point: 7
+      - cardType: 9
+        point: 8
+    - level: 68
+      rewards:
+      - cardType: 1
+        point: 15
+    - level: 69
+      rewards:
+      - cardType: 6
+        point: 16
+    - level: 70
+      rewards:
+      - cardType: 3
+        point: 9
+    - level: 71
+      rewards:
+      - cardType: 5
+        point: 20
+    - level: 72
+      rewards:
+      - cardType: 8
+        point: 1
+      - cardType: 1
+        point: 18
+    - level: 73
+      rewards:
+      - cardType: 6
+        point: 6
+      - cardType: 9
+        point: 20
+    - level: 74
+      rewards:
+      - cardType: 8
+        point: 18
+    - level: 75
+      rewards:
+      - cardType: 8
+        point: 12
+    - level: 76
+      rewards:
+      - cardType: 8
+        point: 20
+    - level: 77
+      rewards:
+      - cardType: 8
+        point: 20
+    - level: 78
+      rewards:
+      - cardType: 2
+        point: 19
+      - cardType: 3
+        point: 10
+    - level: 79
+      rewards:
+      - cardType: 6
+        point: 1
+      - cardType: 9
+        point: 10
+    - level: 80
+      rewards:
+      - cardType: 3
+        point: 14
+      - cardType: 9
+        point: 17
+    - level: 81
+      rewards:
+      - cardType: 6
+        point: 3
+    - level: 82
+      rewards:
+      - cardType: 9
+        point: 17
+      - cardType: 8
+        point: 2
+    - level: 83
+      rewards:
+      - cardType: 8
+        point: 20
+    - level: 84
+      rewards:
+      - cardType: 9
+        point: 17
+    - level: 85
+      rewards:
+      - cardType: 1
+        point: 16
+    - level: 86
+      rewards:
+      - cardType: 8
+        point: 18
+    - level: 87
+      rewards:
+      - cardType: 9
+        point: 10
+      - cardType: 3
+        point: 3
+    - level: 88
+      rewards:
+      - cardType: 3
+        point: 10
+      - cardType: 1
+        point: 14
+    - level: 89
+      rewards:
+      - cardType: 6
+        point: 20
+    - level: 90
+      rewards:
+      - cardType: 7
+        point: 14
+      - cardType: 2
+        point: 20
+    - level: 91
+      rewards:
+      - cardType: 4
+        point: 10
+      - cardType: 6
+        point: 20
+    - level: 92
+      rewards:
+      - cardType: 5
+        point: 2
+      - cardType: 1
+        point: 18
+    - level: 93
+      rewards:
+      - cardType: 5
+        point: 14
+    - level: 94
+      rewards:
+      - cardType: 9
+        point: 8
+    - level: 95
+      rewards:
+      - cardType: 7
+        point: 11
+      - cardType: 4
+        point: 15
+    - level: 96
+      rewards:
+      - cardType: 3
+        point: 20
+    - level: 97
+      rewards:
+      - cardType: 6
+        point: 20
+      - cardType: 5
+        point: 5
+    - level: 98
+      rewards:
+      - cardType: 6
+        point: 20
+    - level: 99
+      rewards:
+      - cardType: 1
+        point: 2
+    - level: 100
+      rewards:
+      - cardType: 5
+        point: 1
+  - chestType: 4
+    levels:
+    - level: 1
+      rewards:
+      - cardType: 1
+        point: 11
+    - level: 2
+      rewards:
+      - cardType: 9
+        point: 11
+      - cardType: 8
+        point: 5
+      - cardType: 1
+        point: 1
+    - level: 3
+      rewards:
+      - cardType: 3
+        point: 2
+    - level: 4
+      rewards:
+      - cardType: 6
+        point: 4
+      - cardType: 7
+        point: 12
+    - level: 5
+      rewards:
+      - cardType: 4
+        point: 4
+    - level: 6
+      rewards:
+      - cardType: 2
+        point: 6
+    - level: 7
+      rewards:
+      - cardType: 5
+        point: 12
+    - level: 8
+      rewards:
+      - cardType: 7
+        point: 6
+      - cardType: 1
+        point: 9
+      - cardType: 9
+        point: 6
+    - level: 9
+      rewards:
+      - cardType: 9
+        point: 7
+      - cardType: 3
+        point: 5
+      - cardType: 3
+        point: 11
+    - level: 10
+      rewards:
+      - cardType: 1
+        point: 5
+      - cardType: 9
+        point: 6
+    - level: 11
+      rewards:
+      - cardType: 2
+        point: 4
+      - cardType: 3
+        point: 4
+    - level: 12
+      rewards:
+      - cardType: 1
+        point: 7
+    - level: 13
+      rewards:
+      - cardType: 9
+        point: 10
+    - level: 14
+      rewards:
+      - cardType: 3
+        point: 8
+    - level: 15
+      rewards:
+      - cardType: 9
+        point: 14
+    - level: 16
+      rewards:
+      - cardType: 9
+        point: 2
+    - level: 17
+      rewards:
+      - cardType: 6
+        point: 2
+      - cardType: 2
+        point: 14
+    - level: 18
+      rewards:
+      - cardType: 1
+        point: 2
+    - level: 19
+      rewards:
+      - cardType: 8
+        point: 6
+    - level: 20
+      rewards:
+      - cardType: 8
+        point: 12
+    - level: 21
+      rewards:
+      - cardType: 3
+        point: 8
+    - level: 22
+      rewards:
+      - cardType: 4
+        point: 11
+    - level: 23
+      rewards:
+      - cardType: 7
+        point: 3
+    - level: 24
+      rewards:
+      - cardType: 3
+        point: 10
+    - level: 25
+      rewards:
+      - cardType: 2
+        point: 2
+    - level: 26
+      rewards:
+      - cardType: 2
+        point: 1
+      - cardType: 6
+        point: 13
+    - level: 27
+      rewards:
+      - cardType: 5
+        point: 1
+      - cardType: 4
+        point: 14
+    - level: 28
+      rewards:
+      - cardType: 7
+        point: 1
+    - level: 29
+      rewards:
+      - cardType: 2
+        point: 4
+      - cardType: 3
+        point: 5
+      - cardType: 5
+        point: 14
+    - level: 30
+      rewards:
+      - cardType: 1
+        point: 1
+    - level: 31
+      rewards:
+      - cardType: 3
+        point: 8
+    - level: 32
+      rewards:
+      - cardType: 5
+        point: 14
+    - level: 33
+      rewards:
+      - cardType: 2
+        point: 9
+      - cardType: 6
+        point: 8
+      - cardType: 5
+        point: 13
+    - level: 34
+      rewards:
+      - cardType: 9
+        point: 1
+      - cardType: 9
+        point: 3
+      - cardType: 9
+        point: 8
+    - level: 35
+      rewards:
+      - cardType: 2
+        point: 12
+    - level: 36
+      rewards:
+      - cardType: 9
+        point: 2
+    - level: 37
+      rewards:
+      - cardType: 3
+        point: 13
+      - cardType: 9
+        point: 5
+    - level: 38
+      rewards:
+      - cardType: 4
+        point: 18
+    - level: 39
+      rewards:
+      - cardType: 9
+        point: 1
+    - level: 40
+      rewards:
+      - cardType: 3
+        point: 11
+      - cardType: 5
+        point: 9
+    - level: 41
+      rewards:
+      - cardType: 8
+        point: 5
+    - level: 42
+      rewards:
+      - cardType: 6
+        point: 2
+      - cardType: 9
+        point: 13
+    - level: 43
+      rewards:
+      - cardType: 9
+        point: 5
+      - cardType: 4
+        point: 8
+      - cardType: 3
+        point: 8
+    - level: 44
+      rewards:
+      - cardType: 8
+        point: 18
+      - cardType: 7
+        point: 8
+    - level: 45
+      rewards:
+      - cardType: 6
+        point: 14
+    - level: 46
+      rewards:
+      - cardType: 7
+        point: 1
+    - level: 47
+      rewards:
+      - cardType: 2
+        point: 3
+      - cardType: 2
+        point: 2
+    - level: 48
+      rewards:
+      - cardType: 4
+        point: 3
+    - level: 49
+      rewards:
+      - cardType: 2
+        point: 2
+      - cardType: 9
+        point: 19
+    - level: 50
+      rewards:
+      - cardType: 8
+        point: 5
+      - cardType: 7
+        point: 11
+    - level: 51
+      rewards:
+      - cardType: 8
+        point: 11
+    - level: 52
+      rewards:
+      - cardType: 7
+        point: 9
+    - level: 53
+      rewards:
+      - cardType: 5
+        point: 18
+    - level: 54
+      rewards:
+      - cardType: 5
+        point: 18
+      - cardType: 3
+        point: 13
+    - level: 55
+      rewards:
+      - cardType: 2
+        point: 20
+    - level: 56
+      rewards:
+      - cardType: 7
+        point: 10
+    - level: 57
+      rewards:
+      - cardType: 3
+        point: 2
+    - level: 58
+      rewards:
+      - cardType: 7
+        point: 13
+      - cardType: 3
+        point: 10
+    - level: 59
+      rewards:
+      - cardType: 5
+        point: 1
+    - level: 60
+      rewards:
+      - cardType: 9
+        point: 7
+    - level: 61
+      rewards:
+      - cardType: 9
+        point: 12
+    - level: 62
+      rewards:
+      - cardType: 1
+        point: 8
+    - level: 63
+      rewards:
+      - cardType: 3
+        point: 9
+      - cardType: 3
+        point: 15
+    - level: 64
+      rewards:
+      - cardType: 4
+        point: 20
+    - level: 65
+      rewards:
+      - cardType: 5
+        point: 13
+      - cardType: 5
+        point: 18
+    - level: 66
+      rewards:
+      - cardType: 2
+        point: 2
+    - level: 67
+      rewards:
+      - cardType: 8
+        point: 20
+      - cardType: 1
+        point: 20
+    - level: 68
+      rewards:
+      - cardType: 3
+        point: 20
+    - level: 69
+      rewards:
+      - cardType: 8
+        point: 20
+      - cardType: 6
+        point: 3
+      - cardType: 4
+        point: 12
+    - level: 70
+      rewards:
+      - cardType: 5
+        point: 3
+    - level: 71
+      rewards:
+      - cardType: 3
+        point: 20
+      - cardType: 4
+        point: 14
+      - cardType: 9
+        point: 20
+    - level: 72
+      rewards:
+      - cardType: 9
+        point: 10
+      - cardType: 3
+        point: 11
+      - cardType: 1
+        point: 20
+    - level: 73
+      rewards:
+      - cardType: 6
+        point: 9
+      - cardType: 4
+        point: 1
+    - level: 74
+      rewards:
+      - cardType: 2
+        point: 17
+      - cardType: 5
+        point: 6
+      - cardType: 6
+        point: 9
+    - level: 75
+      rewards:
+      - cardType: 8
+        point: 17
+    - level: 76
+      rewards:
+      - cardType: 6
+        point: 15
+      - cardType: 5
+        point: 20
+    - level: 77
+      rewards:
+      - cardType: 2
+        point: 4
+    - level: 78
+      rewards:
+      - cardType: 1
+        point: 20
+    - level: 79
+      rewards:
+      - cardType: 6
+        point: 12
+    - level: 80
+      rewards:
+      - cardType: 4
+        point: 19
+      - cardType: 8
+        point: 4
+    - level: 81
+      rewards:
+      - cardType: 4
+        point: 20
+      - cardType: 4
+        point: 20
+      - cardType: 3
+        point: 20
+    - level: 82
+      rewards:
+      - cardType: 8
+        point: 20
+      - cardType: 9
+        point: 20
+    - level: 83
+      rewards:
+      - cardType: 6
+        point: 2
+      - cardType: 9
+        point: 1
+      - cardType: 8
+        point: 11
+    - level: 84
+      rewards:
+      - cardType: 4
+        point: 20
+      - cardType: 6
+        point: 18
+      - cardType: 2
+        point: 16
+    - level: 85
+      rewards:
+      - cardType: 7
+        point: 20
+    - level: 86
+      rewards:
+      - cardType: 5
+        point: 7
+    - level: 87
+      rewards:
+      - cardType: 6
+        point: 11
+    - level: 88
+      rewards:
+      - cardType: 9
+        point: 20
+      - cardType: 1
+        point: 4
+      - cardType: 8
+        point: 20
+    - level: 89
+      rewards:
+      - cardType: 1
+        point: 20
+    - level: 90
+      rewards:
+      - cardType: 7
+        point: 7
+      - cardType: 1
+        point: 2
+      - cardType: 1
+        point: 20
+    - level: 91
+      rewards:
+      - cardType: 6
+        point: 8
+    - level: 92
+      rewards:
+      - cardType: 6
+        point: 20
+    - level: 93
+      rewards:
+      - cardType: 9
+        point: 20
+    - level: 94
+      rewards:
+      - cardType: 9
+        point: 1
+    - level: 95
+      rewards:
+      - cardType: 2
+        point: 1
+    - level: 96
+      rewards:
+      - cardType: 3
+        point: 19
+      - cardType: 4
+        point: 20
+      - cardType: 6
+        point: 20
+    - level: 97
+      rewards:
+      - cardType: 6
+        point: 1
+      - cardType: 8
+        point: 15
+    - level: 98
+      rewards:
+      - cardType: 5
+        point: 9
+    - level: 99
+      rewards:
+      - cardType: 9
+        point: 4
+      - cardType: 5
+        point: 20
+      - cardType: 4
+        point: 10
+    - level: 100
+      rewards:
+      - cardType: 4
+        point: 12
+  - chestType: 5
+    levels:
+    - level: 1
+      rewards:
+      - cardType: 5
+        point: 7
+      - cardType: 3
+        point: 12
+      - cardType: 8
+        point: 3
+    - level: 2
+      rewards:
+      - cardType: 9
+        point: 13
+      - cardType: 1
+        point: 8
+    - level: 3
+      rewards:
+      - cardType: 6
+        point: 7
+      - cardType: 5
+        point: 9
+      - cardType: 7
+        point: 13
+    - level: 4
+      rewards:
+      - cardType: 8
+        point: 13
+      - cardType: 4
+        point: 6
+    - level: 5
+      rewards:
+      - cardType: 9
+        point: 13
+      - cardType: 7
+        point: 9
+      - cardType: 5
+        point: 3
+    - level: 6
+      rewards:
+      - cardType: 5
+        point: 10
+      - cardType: 9
+        point: 3
+      - cardType: 7
+        point: 7
+    - level: 7
+      rewards:
+      - cardType: 4
+        point: 11
+      - cardType: 8
+        point: 2
+      - cardType: 4
+        point: 9
+    - level: 8
+      rewards:
+      - cardType: 9
+        point: 13
+    - level: 9
+      rewards:
+      - cardType: 1
+        point: 1
+      - cardType: 1
+        point: 14
+      - cardType: 1
+        point: 5
+    - level: 10
+      rewards:
+      - cardType: 8
+        point: 8
+      - cardType: 8
+        point: 4
+      - cardType: 8
+        point: 8
+    - level: 11
+      rewards:
+      - cardType: 4
+        point: 9
+      - cardType: 4
+        point: 13
+      - cardType: 8
+        point: 14
+    - level: 12
+      rewards:
+      - cardType: 3
+        point: 12
+      - cardType: 5
+        point: 3
+      - cardType: 6
+        point: 12
+    - level: 13
+      rewards:
+      - cardType: 7
+        point: 11
+    - level: 14
+      rewards:
+      - cardType: 5
+        point: 17
+      - cardType: 5
+        point: 1
+    - level: 15
+      rewards:
+      - cardType: 8
+        point: 1
+      - cardType: 7
+        point: 12
+    - level: 16
+      rewards:
+      - cardType: 7
+        point: 5
+      - cardType: 1
+        point: 6
+    - level: 17
+      rewards:
+      - cardType: 2
+        point: 3
+      - cardType: 2
+        point: 11
+      - cardType: 4
+        point: 1
+    - level: 18
+      rewards:
+      - cardType: 1
+        point: 2
+      - cardType: 1
+        point: 5
+    - level: 19
+      rewards:
+      - cardType: 5
+        point: 11
+      - cardType: 5
+        point: 17
+    - level: 20
+      rewards:
+      - cardType: 1
+        point: 11
+      - cardType: 3
+        point: 5
+      - cardType: 2
+        point: 10
+    - level: 21
+      rewards:
+      - cardType: 9
+        point: 12
+      - cardType: 3
+        point: 13
+      - cardType: 9
+        point: 15
+    - level: 22
+      rewards:
+      - cardType: 7
+        point: 16
+    - level: 23
+      rewards:
+      - cardType: 5
+        point: 8
+    - level: 24
+      rewards:
+      - cardType: 7
+        point: 15
+      - cardType: 8
+        point: 6
+      - cardType: 9
+        point: 11
+    - level: 25
+      rewards:
+      - cardType: 9
+        point: 1
+      - cardType: 2
+        point: 9
+      - cardType: 7
+        point: 11
+    - level: 26
+      rewards:
+      - cardType: 7
+        point: 17
+    - level: 27
+      rewards:
+      - cardType: 5
+        point: 7
+      - cardType: 1
+        point: 16
+    - level: 28
+      rewards:
+      - cardType: 9
+        point: 10
+    - level: 29
+      rewards:
+      - cardType: 8
+        point: 8
+      - cardType: 7
+        point: 3
+      - cardType: 4
+        point: 2
+    - level: 30
+      rewards:
+      - cardType: 9
+        point: 13
+      - cardType: 4
+        point: 2
+    - level: 31
+      rewards:
+      - cardType: 8
+        point: 6
+      - cardType: 1
+        point: 1
+    - level: 32
+      rewards:
+      - cardType: 7
+        point: 20
+    - level: 33
+      rewards:
+      - cardType: 7
+        point: 11
+      - cardType: 7
+        point: 3
+      - cardType: 8
+        point: 3
+    - level: 34
+      rewards:
+      - cardType: 2
+        point: 1
+    - level: 35
+      rewards:
+      - cardType: 2
+        point: 17
+    - level: 36
+      rewards:
+      - cardType: 5
+        point: 17
+    - level: 37
+      rewards:
+      - cardType: 4
+        point: 18
+      - cardType: 2
+        point: 14
+      - cardType: 5
+        point: 18
+    - level: 38
+      rewards:
+      - cardType: 9
+        point: 5
+      - cardType: 6
+        point: 15
+      - cardType: 4
+        point: 20
+    - level: 39
+      rewards:
+      - cardType: 9
+        point: 19
+      - cardType: 8
+        point: 7
+      - cardType: 6
+        point: 14
+    - level: 40
+      rewards:
+      - cardType: 2
+        point: 6
+    - level: 41
+      rewards:
+      - cardType: 4
+        point: 7
+      - cardType: 4
+        point: 8
+    - level: 42
+      rewards:
+      - cardType: 7
+        point: 14
+    - level: 43
+      rewards:
+      - cardType: 2
+        point: 13
+      - cardType: 6
+        point: 1
+      - cardType: 9
+        point: 1
+    - level: 44
+      rewards:
+      - cardType: 1
+        point: 8
+    - level: 45
+      rewards:
+      - cardType: 1
+        point: 2
+    - level: 46
+      rewards:
+      - cardType: 6
+        point: 20
+      - cardType: 3
+        point: 11
+    - level: 47
+      rewards:
+      - cardType: 4
+        point: 9
+      - cardType: 3
+        point: 14
+    - level: 48
+      rewards:
+      - cardType: 5
+        point: 17
+      - cardType: 5
+        point: 13
+    - level: 49
+      rewards:
+      - cardType: 3
+        point: 3
+      - cardType: 2
+        point: 4
+    - level: 50
+      rewards:
+      - cardType: 6
+        point: 18
+      - cardType: 2
+        point: 8
+      - cardType: 8
+        point: 17
+    - level: 51
+      rewards:
+      - cardType: 6
+        point: 14
+    - level: 52
+      rewards:
+      - cardType: 9
+        point: 20
+      - cardType: 1
+        point: 14
+      - cardType: 7
+        point: 20
+    - level: 53
+      rewards:
+      - cardType: 6
+        point: 19
+    - level: 54
+      rewards:
+      - cardType: 2
+        point: 16
+      - cardType: 3
+        point: 6
+      - cardType: 9
+        point: 20
+    - level: 55
+      rewards:
+      - cardType: 2
+        point: 3
+      - cardType: 5
+        point: 6
+      - cardType: 8
+        point: 18
+    - level: 56
+      rewards:
+      - cardType: 6
+        point: 12
+      - cardType: 3
+        point: 20
+    - level: 57
+      rewards:
+      - cardType: 4
+        point: 7
+      - cardType: 5
+        point: 2
+      - cardType: 6
+        point: 14
+    - level: 58
+      rewards:
+      - cardType: 2
+        point: 3
+      - cardType: 4
+        point: 18
+      - cardType: 1
+        point: 9
+    - level: 59
+      rewards:
+      - cardType: 6
+        point: 14
+      - cardType: 6
+        point: 10
+    - level: 60
+      rewards:
+      - cardType: 6
+        point: 17
+    - level: 61
+      rewards:
+      - cardType: 5
+        point: 11
+      - cardType: 2
+        point: 19
+    - level: 62
+      rewards:
+      - cardType: 4
+        point: 20
+    - level: 63
+      rewards:
+      - cardType: 6
+        point: 6
+    - level: 64
+      rewards:
+      - cardType: 9
+        point: 1
+    - level: 65
+      rewards:
+      - cardType: 4
+        point: 6
+      - cardType: 8
+        point: 20
+      - cardType: 5
+        point: 20
+    - level: 66
+      rewards:
+      - cardType: 8
+        point: 15
+      - cardType: 4
+        point: 2
+    - level: 67
+      rewards:
+      - cardType: 1
+        point: 15
+      - cardType: 7
+        point: 20
+    - level: 68
+      rewards:
+      - cardType: 1
+        point: 5
+      - cardType: 6
+        point: 20
+    - level: 69
+      rewards:
+      - cardType: 8
+        point: 11
+    - level: 70
+      rewards:
+      - cardType: 3
+        point: 14
+    - level: 71
+      rewards:
+      - cardType: 9
+        point: 2
+      - cardType: 6
+        point: 20
+    - level: 72
+      rewards:
+      - cardType: 4
+        point: 17
+    - level: 73
+      rewards:
+      - cardType: 3
+        point: 2
+      - cardType: 6
+        point: 15
+      - cardType: 3
+        point: 8
+    - level: 74
+      rewards:
+      - cardType: 7
+        point: 2
+      - cardType: 2
+        point: 5
+    - level: 75
+      rewards:
+      - cardType: 1
+        point: 13
+      - cardType: 1
+        point: 16
+    - level: 76
+      rewards:
+      - cardType: 6
+        point: 2
+    - level: 77
+      rewards:
+      - cardType: 9
+        point: 13
+      - cardType: 5
+        point: 20
+      - cardType: 4
+        point: 13
+    - level: 78
+      rewards:
+      - cardType: 1
+        point: 16
+      - cardType: 4
+        point: 4
+      - cardType: 4
+        point: 1
+    - level: 79
+      rewards:
+      - cardType: 6
+        point: 7
+      - cardType: 5
+        point: 18
+      - cardType: 5
+        point: 15
+    - level: 80
+      rewards:
+      - cardType: 8
+        point: 15
+      - cardType: 1
+        point: 20
+      - cardType: 8
+        point: 9
+    - level: 81
+      rewards:
+      - cardType: 8
+        point: 3
+      - cardType: 9
+        point: 13
+      - cardType: 4
+        point: 3
+    - level: 82
+      rewards:
+      - cardType: 2
+        point: 20
+      - cardType: 5
+        point: 1
+      - cardType: 2
+        point: 18
+    - level: 83
+      rewards:
+      - cardType: 7
+        point: 3
+      - cardType: 6
+        point: 20
+      - cardType: 6
+        point: 16
+    - level: 84
+      rewards:
+      - cardType: 9
+        point: 18
+      - cardType: 3
+        point: 20
+      - cardType: 4
+        point: 4
+    - level: 85
+      rewards:
+      - cardType: 9
+        point: 20
+      - cardType: 5
+        point: 14
+    - level: 86
+      rewards:
+      - cardType: 1
+        point: 4
+      - cardType: 9
+        point: 20
+    - level: 87
+      rewards:
+      - cardType: 5
+        point: 20
+      - cardType: 5
+        point: 12
+      - cardType: 5
+        point: 11
+    - level: 88
+      rewards:
+      - cardType: 3
+        point: 20
+    - level: 89
+      rewards:
+      - cardType: 5
+        point: 6
+    - level: 90
+      rewards:
+      - cardType: 8
+        point: 1
+      - cardType: 9
+        point: 20
+    - level: 91
+      rewards:
+      - cardType: 9
+        point: 12
+      - cardType: 9
+        point: 9
+      - cardType: 6
+        point: 20
+    - level: 92
+      rewards:
+      - cardType: 8
+        point: 1
+      - cardType: 7
+        point: 20
+    - level: 93
+      rewards:
+      - cardType: 4
+        point: 8
+      - cardType: 6
+        point: 20
+    - level: 94
+      rewards:
+      - cardType: 5
+        point: 3
+      - cardType: 4
+        point: 8
+    - level: 95
+      rewards:
+      - cardType: 3
+        point: 18
+      - cardType: 4
+        point: 3
+      - cardType: 3
+        point: 13
+    - level: 96
+      rewards:
+      - cardType: 5
+        point: 20
+      - cardType: 8
+        point: 15
+      - cardType: 9
+        point: 20
+    - level: 97
+      rewards:
+      - cardType: 8
+        point: 16
+    - level: 98
+      rewards:
+      - cardType: 7
+        point: 16
+    - level: 99
+      rewards:
+      - cardType: 6
+        point: 20
+      - cardType: 5
+        point: 20
+    - level: 100
+      rewards:
+      - cardType: 9
+        point: 17
+      - cardType: 1
+        point: 20
+      - cardType: 4
+        point: 20
+  - chestType: 6
+    levels:
+    - level: 1
+      rewards:
+      - cardType: 1
+        point: 2
+    - level: 2
+      rewards:
+      - cardType: 8
+        point: 5
+    - level: 3
+      rewards:
+      - cardType: 2
+        point: 7
+    - level: 4
+      rewards:
+      - cardType: 9
+        point: 12
+      - cardType: 5
+        point: 1
+      - cardType: 3
+        point: 12
+    - level: 5
+      rewards:
+      - cardType: 6
+        point: 8
+    - level: 6
+      rewards:
+      - cardType: 8
+        point: 10
+    - level: 7
+      rewards:
+      - cardType: 4
+        point: 17
+      - cardType: 1
+        point: 1
+    - level: 8
+      rewards:
+      - cardType: 6
+        point: 6
+    - level: 9
+      rewards:
+      - cardType: 3
+        point: 17
+    - level: 10
+      rewards:
+      - cardType: 6
+        point: 4
+      - cardType: 6
+        point: 8
+    - level: 11
+      rewards:
+      - cardType: 5
+        point: 4
+    - level: 12
+      rewards:
+      - cardType: 1
+        point: 1
+    - level: 13
+      rewards:
+      - cardType: 9
+        point: 8
+    - level: 14
+      rewards:
+      - cardType: 7
+        point: 14
+    - level: 15
+      rewards:
+      - cardType: 6
+        point: 10
+    - level: 16
+      rewards:
+      - cardType: 3
+        point: 18
+      - cardType: 2
+        point: 15
+      - cardType: 6
+        point: 19
+    - level: 17
+      rewards:
+      - cardType: 6
+        point: 10
+    - level: 18
+      rewards:
+      - cardType: 1
+        point: 19
+    - level: 19
+      rewards:
+      - cardType: 5
+        point: 14
+      - cardType: 7
+        point: 5
+      - cardType: 1
+        point: 18
+      - cardType: 8
+        point: 10
+    - level: 20
+      rewards:
+      - cardType: 7
+        point: 20
+    - level: 21
+      rewards:
+      - cardType: 9
+        point: 17
+    - level: 22
+      rewards:
+      - cardType: 6
+        point: 17
+      - cardType: 3
+        point: 18
+      - cardType: 4
+        point: 16
+    - level: 23
+      rewards:
+      - cardType: 1
+        point: 7
+    - level: 24
+      rewards:
+      - cardType: 5
+        point: 1
+      - cardType: 2
+        point: 1
+      - cardType: 4
+        point: 8
+    - level: 25
+      rewards:
+      - cardType: 9
+        point: 5
+    - level: 26
+      rewards:
+      - cardType: 9
+        point: 6
+      - cardType: 2
+        point: 13
+      - cardType: 4
+        point: 2
+    - level: 27
+      rewards:
+      - cardType: 2
+        point: 20
+      - cardType: 4
+        point: 15
+      - cardType: 8
+        point: 14
+    - level: 28
+      rewards:
+      - cardType: 4
+        point: 13
+      - cardType: 6
+        point: 20
+      - cardType: 9
+        point: 11
+    - level: 29
+      rewards:
+      - cardType: 1
+        point: 9
+      - cardType: 4
+        point: 2
+    - level: 30
+      rewards:
+      - cardType: 2
+        point: 16
+      - cardType: 3
+        point: 1
+      - cardType: 8
+        point: 18
+    - level: 31
+      rewards:
+      - cardType: 7
+        point: 20
+    - level: 32
+      rewards:
+      - cardType: 9
+        point: 11
+    - level: 33
+      rewards:
+      - cardType: 5
+        point: 5
+      - cardType: 5
+        point: 20
+      - cardType: 5
+        point: 15
+      - cardType: 9
+        point: 9
+    - level: 34
+      rewards:
+      - cardType: 6
+        point: 11
+    - level: 35
+      rewards:
+      - cardType: 3
+        point: 14
+      - cardType: 3
+        point: 6
+      - cardType: 4
+        point: 8
+      - cardType: 1
+        point: 19
+    - level: 36
+      rewards:
+      - cardType: 2
+        point: 19
+      - cardType: 6
+        point: 8
+      - cardType: 6
+        point: 9
+    - level: 37
+      rewards:
+      - cardType: 8
+        point: 20
+    - level: 38
+      rewards:
+      - cardType: 7
+        point: 14
+    - level: 39
+      rewards:
+      - cardType: 8
+        point: 2
+    - level: 40
+      rewards:
+      - cardType: 2
+        point: 15
+    - level: 41
+      rewards:
+      - cardType: 6
+        point: 5
+    - level: 42
+      rewards:
+      - cardType: 6
+        point: 20
+    - level: 43
+      rewards:
+      - cardType: 6
+        point: 7
+      - cardType: 2
+        point: 18
+    - level: 44
+      rewards:
+      - cardType: 7
+        point: 15
+    - level: 45
+      rewards:
+      - cardType: 1
+        point: 19
+    - level: 46
+      rewards:
+      - cardType: 6
+        point: 2
+      - cardType: 8
+        point: 11
+      - cardType: 9
+        point: 18
+    - level: 47
+      rewards:
+      - cardType: 6
+        point: 11
+    - level: 48
+      rewards:
+      - cardType: 9
+        point: 18
+    - level: 49
+      rewards:
+      - cardType: 7
+        point: 2
+      - cardType: 6
+        point: 20
+    - level: 50
+      rewards:
+      - cardType: 4
+        point: 2
+    - level: 51
+      rewards:
+      - cardType: 6
+        point: 13
+    - level: 52
+      rewards:
+      - cardType: 6
+        point: 12
+      - cardType: 6
+        point: 11
+      - cardType: 5
+        point: 20
+    - level: 53
+      rewards:
+      - cardType: 8
+        point: 20
+      - cardType: 5
+        point: 18
+    - level: 54
+      rewards:
+      - cardType: 6
+        point: 18
+      - cardType: 8
+        point: 20
+    - level: 55
+      rewards:
+      - cardType: 1
+        point: 9
+    - level: 56
+      rewards:
+      - cardType: 6
+        point: 7
+      - cardType: 1
+        point: 19
+      - cardType: 2
+        point: 20
+    - level: 57
+      rewards:
+      - cardType: 5
+        point: 20
+      - cardType: 6
+        point: 20
+      - cardType: 5
+        point: 20
+      - cardType: 6
+        point: 20
+    - level: 58
+      rewards:
+      - cardType: 6
+        point: 10
+      - cardType: 4
+        point: 14
+      - cardType: 3
+        point: 7
+    - level: 59
+      rewards:
+      - cardType: 5
+        point: 8
+      - cardType: 6
+        point: 20
+      - cardType: 9
+        point: 10
+    - level: 60
+      rewards:
+      - cardType: 4
+        point: 20
+    - level: 61
+      rewards:
+      - cardType: 7
+        point: 5
+    - level: 62
+      rewards:
+      - cardType: 6
+        point: 1
+    - level: 63
+      rewards:
+      - cardType: 4
+        point: 11
+      - cardType: 8
+        point: 20
+      - cardType: 3
+        point: 20
+      - cardType: 9
+        point: 4
+    - level: 64
+      rewards:
+      - cardType: 6
+        point: 20
+    - level: 65
+      rewards:
+      - cardType: 2
+        point: 20
+      - cardType: 3
+        point: 12
+    - level: 66
+      rewards:
+      - cardType: 2
+        point: 18
+    - level: 67
+      rewards:
+      - cardType: 9
+        point: 7
+      - cardType: 1
+        point: 20
+      - cardType: 6
+        point: 20
+    - level: 68
+      rewards:
+      - cardType: 9
+        point: 7
+    - level: 69
+      rewards:
+      - cardType: 2
+        point: 20
+      - cardType: 1
+        point: 20
+      - cardType: 5
+        point: 15
+    - level: 70
+      rewards:
+      - cardType: 3
+        point: 12
+    - level: 71
+      rewards:
+      - cardType: 8
+        point: 20
+      - cardType: 1
+        point: 7
+    - level: 72
+      rewards:
+      - cardType: 4
+        point: 20
+    - level: 73
+      rewards:
+      - cardType: 9
+        point: 19
+    - level: 74
+      rewards:
+      - cardType: 4
+        point: 20
+      - cardType: 8
+        point: 7
+      - cardType: 7
+        point: 15
+      - cardType: 4
+        point: 12
+    - level: 75
+      rewards:
+      - cardType: 1
+        point: 20
+    - level: 76
+      rewards:
+      - cardType: 2
+        point: 20
+      - cardType: 1
+        point: 8
+      - cardType: 4
+        point: 20
+    - level: 77
+      rewards:
+      - cardType: 8
+        point: 11
+    - level: 78
+      rewards:
+      - cardType: 2
+        point: 9
+    - level: 79
+      rewards:
+      - cardType: 5
+        point: 4
+    - level: 80
+      rewards:
+      - cardType: 3
+        point: 1
+      - cardType: 9
+        point: 20
+    - level: 81
+      rewards:
+      - cardType: 2
+        point: 5
+      - cardType: 1
+        point: 20
+      - cardType: 6
+        point: 20
+    - level: 82
+      rewards:
+      - cardType: 9
+        point: 6
+      - cardType: 2
+        point: 8
+      - cardType: 6
+        point: 18
+    - level: 83
+      rewards:
+      - cardType: 7
+        point: 8
+      - cardType: 6
+        point: 20
+      - cardType: 3
+        point: 20
+      - cardType: 6
+        point: 20
+    - level: 84
+      rewards:
+      - cardType: 8
+        point: 13
+      - cardType: 2
+        point: 3
+    - level: 85
+      rewards:
+      - cardType: 6
+        point: 13
+      - cardType: 5
+        point: 11
+      - cardType: 5
+        point: 8
+      - cardType: 9
+        point: 20
+    - level: 86
+      rewards:
+      - cardType: 3
+        point: 20
+    - level: 87
+      rewards:
+      - cardType: 8
+        point: 20
+    - level: 88
+      rewards:
+      - cardType: 9
+        point: 19
+      - cardType: 7
+        point: 19
+    - level: 89
+      rewards:
+      - cardType: 4
+        point: 6
+    - level: 90
+      rewards:
+      - cardType: 1
+        point: 10
+      - cardType: 6
+        point: 14
+      - cardType: 5
+        point: 15
+    - level: 91
+      rewards:
+      - cardType: 2
+        point: 17
+      - cardType: 8
+        point: 15
+      - cardType: 4
+        point: 15
+    - level: 92
+      rewards:
+      - cardType: 7
+        point: 20
+    - level: 93
+      rewards:
+      - cardType: 1
+        point: 20
+    - level: 94
+      rewards:
+      - cardType: 4
+        point: 19
+      - cardType: 7
+        point: 20
+      - cardType: 1
+        point: 12
+    - level: 95
+      rewards:
+      - cardType: 2
+        point: 20
+    - level: 96
+      rewards:
+      - cardType: 1
+        point: 20
+    - level: 97
+      rewards:
+      - cardType: 7
+        point: 9
+      - cardType: 3
+        point: 7
+    - level: 98
+      rewards:
+      - cardType: 1
+        point: 20
+    - level: 99
+      rewards:
+      - cardType: 6
+        point: 3
+    - level: 100
+      rewards:
+      - cardType: 8
+        point: 20
+      - cardType: 9
+        point: 20
+      - cardType: 4
+        point: 14
+  - chestType: 7
+    levels:
+    - level: 1
+      rewards:
+      - cardType: 2
+        point: 6
+      - cardType: 1
+        point: 12
+      - cardType: 4
+        point: 8
+      - cardType: 1
+        point: 11
+    - level: 2
+      rewards:
+      - cardType: 4
+        point: 19
+    - level: 3
+      rewards:
+      - cardType: 3
+        point: 11
+      - cardType: 8
+        point: 18
+      - cardType: 5
+        point: 3
+      - cardType: 2
+        point: 20
+      - cardType: 4
+        point: 15
+    - level: 4
+      rewards:
+      - cardType: 7
+        point: 6
+    - level: 5
+      rewards:
+      - cardType: 9
+        point: 1
+      - cardType: 9
+        point: 12
+      - cardType: 1
+        point: 13
+    - level: 6
+      rewards:
+      - cardType: 2
+        point: 6
+      - cardType: 1
+        point: 4
+      - cardType: 6
+        point: 16
+      - cardType: 5
+        point: 6
+      - cardType: 2
+        point: 11
+    - level: 7
+      rewards:
+      - cardType: 4
+        point: 2
+      - cardType: 7
+        point: 9
+      - cardType: 6
+        point: 4
+      - cardType: 4
+        point: 2
+      - cardType: 7
+        point: 6
+    - level: 8
+      rewards:
+      - cardType: 4
+        point: 2
+      - cardType: 7
+        point: 5
+      - cardType: 9
+        point: 8
+    - level: 9
+      rewards:
+      - cardType: 3
+        point: 2
+      - cardType: 7
+        point: 2
+      - cardType: 6
+        point: 19
+    - level: 10
+      rewards:
+      - cardType: 6
+        point: 14
+      - cardType: 5
+        point: 2
+      - cardType: 3
+        point: 20
+      - cardType: 9
+        point: 3
+    - level: 11
+      rewards:
+      - cardType: 5
+        point: 14
+      - cardType: 6
+        point: 5
+      - cardType: 5
+        point: 20
+      - cardType: 7
+        point: 8
+    - level: 12
+      rewards:
+      - cardType: 8
+        point: 20
+      - cardType: 4
+        point: 12
+    - level: 13
+      rewards:
+      - cardType: 7
+        point: 10
+      - cardType: 7
+        point: 5
+      - cardType: 8
+        point: 7
+    - level: 14
+      rewards:
+      - cardType: 8
+        point: 7
+      - cardType: 1
+        point: 15
+      - cardType: 6
+        point: 5
+      - cardType: 5
+        point: 1
+      - cardType: 5
+        point: 13
+    - level: 15
+      rewards:
+      - cardType: 1
+        point: 13
+      - cardType: 3
+        point: 6
+      - cardType: 1
+        point: 13
+      - cardType: 8
+        point: 19
+    - level: 16
+      rewards:
+      - cardType: 5
+        point: 5
+      - cardType: 2
+        point: 8
+      - cardType: 2
+        point: 13
+      - cardType: 5
+        point: 4
+    - level: 17
+      rewards:
+      - cardType: 1
+        point: 15
+      - cardType: 5
+        point: 1
+      - cardType: 1
+        point: 15
+    - level: 18
+      rewards:
+      - cardType: 9
+        point: 18
+    - level: 19
+      rewards:
+      - cardType: 1
+        point: 9
+      - cardType: 2
+        point: 20
+      - cardType: 9
+        point: 10
+      - cardType: 5
+        point: 16
+      - cardType: 1
+        point: 20
+    - level: 20
+      rewards:
+      - cardType: 6
+        point: 20
+      - cardType: 4
+        point: 6
+      - cardType: 1
+        point: 20
+      - cardType: 3
+        point: 16
+    - level: 21
+      rewards:
+      - cardType: 1
+        point: 1
+      - cardType: 2
+        point: 12
+      - cardType: 1
+        point: 10
+      - cardType: 9
+        point: 16
+    - level: 22
+      rewards:
+      - cardType: 8
+        point: 3
+      - cardType: 2
+        point: 20
+      - cardType: 3
+        point: 8
+      - cardType: 2
+        point: 7
+    - level: 23
+      rewards:
+      - cardType: 1
+        point: 9
+      - cardType: 9
+        point: 14
+      - cardType: 5
+        point: 1
+      - cardType: 4
+        point: 20
+    - level: 24
+      rewards:
+      - cardType: 9
+        point: 3
+      - cardType: 5
+        point: 16
+    - level: 25
+      rewards:
+      - cardType: 5
+        point: 13
+    - level: 26
+      rewards:
+      - cardType: 5
+        point: 17
+    - level: 27
+      rewards:
+      - cardType: 8
+        point: 13
+    - level: 28
+      rewards:
+      - cardType: 4
+        point: 12
+      - cardType: 4
+        point: 8
+      - cardType: 9
+        point: 20
+    - level: 29
+      rewards:
+      - cardType: 3
+        point: 3
+      - cardType: 7
+        point: 9
+    - level: 30
+      rewards:
+      - cardType: 2
+        point: 20
+      - cardType: 7
+        point: 19
+      - cardType: 8
+        point: 1
+      - cardType: 6
+        point: 9
+    - level: 31
+      rewards:
+      - cardType: 6
+        point: 7
+    - level: 32
+      rewards:
+      - cardType: 1
+        point: 17
+      - cardType: 7
+        point: 3
+      - cardType: 5
+        point: 17
+      - cardType: 5
+        point: 5
+    - level: 33
+      rewards:
+      - cardType: 9
+        point: 10
+    - level: 34
+      rewards:
+      - cardType: 5
+        point: 20
+      - cardType: 4
+        point: 20
+      - cardType: 7
+        point: 1
+    - level: 35
+      rewards:
+      - cardType: 5
+        point: 12
+      - cardType: 9
+        point: 20
+      - cardType: 7
+        point: 20
+      - cardType: 4
+        point: 12
+    - level: 36
+      rewards:
+      - cardType: 5
+        point: 19
+      - cardType: 8
+        point: 8
+    - level: 37
+      rewards:
+      - cardType: 7
+        point: 20
+      - cardType: 3
+        point: 5
+      - cardType: 6
+        point: 15
+      - cardType: 4
+        point: 20
+      - cardType: 2
+        point: 20
+    - level: 38
+      rewards:
+      - cardType: 6
+        point: 13
+      - cardType: 8
+        point: 13
+      - cardType: 2
+        point: 9
+    - level: 39
+      rewards:
+      - cardType: 2
+        point: 2
+      - cardType: 5
+        point: 20
+      - cardType: 8
+        point: 20
+      - cardType: 4
+        point: 15
+      - cardType: 5
+        point: 20
+    - level: 40
+      rewards:
+      - cardType: 6
+        point: 20
+      - cardType: 2
+        point: 20
+    - level: 41
+      rewards:
+      - cardType: 7
+        point: 20
+      - cardType: 6
+        point: 9
+      - cardType: 5
+        point: 20
+      - cardType: 9
+        point: 19
+    - level: 42
+      rewards:
+      - cardType: 4
+        point: 15
+    - level: 43
+      rewards:
+      - cardType: 4
+        point: 14
+      - cardType: 3
+        point: 8
+      - cardType: 9
+        point: 20
+    - level: 44
+      rewards:
+      - cardType: 7
+        point: 20
+      - cardType: 3
+        point: 20
+      - cardType: 7
+        point: 1
+    - level: 45
+      rewards:
+      - cardType: 1
+        point: 20
+      - cardType: 8
+        point: 20
+      - cardType: 6
+        point: 20
+      - cardType: 1
+        point: 13
+    - level: 46
+      rewards:
+      - cardType: 8
+        point: 1
+      - cardType: 3
+        point: 20
+    - level: 47
+      rewards:
+      - cardType: 4
+        point: 1
+      - cardType: 7
+        point: 1
+      - cardType: 8
+        point: 1
+      - cardType: 6
+        point: 4
+    - level: 48
+      rewards:
+      - cardType: 2
+        point: 20
+      - cardType: 4
+        point: 4
+      - cardType: 5
+        point: 20
+    - level: 49
+      rewards:
+      - cardType: 9
+        point: 20
+    - level: 50
+      rewards:
+      - cardType: 2
+        point: 16
+      - cardType: 3
+        point: 20
+      - cardType: 9
+        point: 4
+      - cardType: 9
+        point: 15
+      - cardType: 6
+        point: 10
+    - level: 51
+      rewards:
+      - cardType: 6
+        point: 4
+      - cardType: 4
+        point: 20
+      - cardType: 7
+        point: 20
+      - cardType: 2
+        point: 20
+    - level: 52
+      rewards:
+      - cardType: 9
+        point: 20
+      - cardType: 1
+        point: 20
+      - cardType: 5
+        point: 6
+    - level: 53
+      rewards:
+      - cardType: 5
+        point: 18
+      - cardType: 1
+        point: 16
+      - cardType: 7
+        point: 20
+      - cardType: 1
+        point: 20
+    - level: 54
+      rewards:
+      - cardType: 2
+        point: 9
+    - level: 55
+      rewards:
+      - cardType: 5
+        point: 10
+      - cardType: 3
+        point: 6
+      - cardType: 3
+        point: 15
+      - cardType: 7
+        point: 20
+      - cardType: 1
+        point: 3
+    - level: 56
+      rewards:
+      - cardType: 9
+        point: 17
+      - cardType: 1
+        point: 7
+      - cardType: 5
+        point: 20
+    - level: 57
+      rewards:
+      - cardType: 7
+        point: 7
+      - cardType: 9
+        point: 20
+      - cardType: 4
+        point: 15
+    - level: 58
+      rewards:
+      - cardType: 9
+        point: 14
+      - cardType: 7
+        point: 20
+      - cardType: 8
+        point: 20
+      - cardType: 2
+        point: 20
+    - level: 59
+      rewards:
+      - cardType: 4
+        point: 20
+    - level: 60
+      rewards:
+      - cardType: 4
+        point: 20
+      - cardType: 7
+        point: 14
+      - cardType: 2
+        point: 14
+    - level: 61
+      rewards:
+      - cardType: 6
+        point: 9
+      - cardType: 5
+        point: 20
+      - cardType: 9
+        point: 20
+      - cardType: 3
+        point: 12
+      - cardType: 2
+        point: 20
+    - level: 62
+      rewards:
+      - cardType: 1
+        point: 12
+      - cardType: 4
+        point: 11
+      - cardType: 9
+        point: 20
+      - cardType: 7
+        point: 3
+    - level: 63
+      rewards:
+      - cardType: 8
+        point: 20
+    - level: 64
+      rewards:
+      - cardType: 5
+        point: 18
+      - cardType: 3
+        point: 8
+      - cardType: 8
+        point: 8
+    - level: 65
+      rewards:
+      - cardType: 8
+        point: 6
+      - cardType: 5
+        point: 6
+      - cardType: 4
+        point: 20
+    - level: 66
+      rewards:
+      - cardType: 1
+        point: 20
+      - cardType: 6
+        point: 13
+      - cardType: 6
+        point: 20
+      - cardType: 9
+        point: 18
+    - level: 67
+      rewards:
+      - cardType: 8
+        point: 16
+      - cardType: 6
+        point: 16
+      - cardType: 8
+        point: 20
+    - level: 68
+      rewards:
+      - cardType: 1
+        point: 5
+      - cardType: 2
+        point: 13
+      - cardType: 4
+        point: 6
+    - level: 69
+      rewards:
+      - cardType: 9
+        point: 20
+      - cardType: 5
+        point: 3
+      - cardType: 3
+        point: 16
+      - cardType: 8
+        point: 16
+    - level: 70
+      rewards:
+      - cardType: 7
+        point: 20
+      - cardType: 4
+        point: 3
+      - cardType: 6
+        point: 20
+    - level: 71
+      rewards:
+      - cardType: 7
+        point: 3
+      - cardType: 7
+        point: 13
+    - level: 72
+      rewards:
+      - cardType: 8
+        point: 3
+    - level: 73
+      rewards:
+      - cardType: 3
+        point: 8
+      - cardType: 4
+        point: 8
+    - level: 74
+      rewards:
+      - cardType: 7
+        point: 17
+    - level: 75
+      rewards:
+      - cardType: 5
+        point: 14
+      - cardType: 6
+        point: 7
+      - cardType: 1
+        point: 20
+      - cardType: 5
+        point: 20
+      - cardType: 7
+        point: 14
+    - level: 76
+      rewards:
+      - cardType: 6
+        point: 20
+      - cardType: 3
+        point: 20
+      - cardType: 7
+        point: 20
+    - level: 77
+      rewards:
+      - cardType: 8
+        point: 8
+      - cardType: 8
+        point: 10
+    - level: 78
+      rewards:
+      - cardType: 2
+        point: 5
+      - cardType: 9
+        point: 20
+    - level: 79
+      rewards:
+      - cardType: 3
+        point: 20
+      - cardType: 4
+        point: 20
+      - cardType: 8
+        point: 16
+      - cardType: 6
+        point: 20
+    - level: 80
+      rewards:
+      - cardType: 7
+        point: 20
+      - cardType: 8
+        point: 20
+      - cardType: 1
+        point: 20
+    - level: 81
+      rewards:
+      - cardType: 6
+        point: 19
+      - cardType: 9
+        point: 20
+      - cardType: 5
+        point: 20
+    - level: 82
+      rewards:
+      - cardType: 6
+        point: 14
+      - cardType: 3
+        point: 16
+      - cardType: 1
+        point: 20
+      - cardType: 4
+        point: 9
+      - cardType: 6
+        point: 20
+    - level: 83
+      rewards:
+      - cardType: 7
+        point: 14
+      - cardType: 1
+        point: 20
+      - cardType: 9
+        point: 20
+      - cardType: 8
+        point: 20
+    - level: 84
+      rewards:
+      - cardType: 5
+        point: 18
+      - cardType: 6
+        point: 20
+      - cardType: 7
+        point: 20
+      - cardType: 8
+        point: 5
+    - level: 85
+      rewards:
+      - cardType: 8
+        point: 18
+      - cardType: 9
+        point: 5
+      - cardType: 8
+        point: 12
+    - level: 86
+      rewards:
+      - cardType: 4
+        point: 20
+    - level: 87
+      rewards:
+      - cardType: 9
+        point: 20
+      - cardType: 3
+        point: 20
+    - level: 88
+      rewards:
+      - cardType: 4
+        point: 15
+      - cardType: 6
+        point: 20
+      - cardType: 9
+        point: 20
+      - cardType: 9
+        point: 20
+      - cardType: 3
+        point: 20
+    - level: 89
+      rewards:
+      - cardType: 8
+        point: 20
+      - cardType: 4
+        point: 20
+    - level: 90
+      rewards:
+      - cardType: 4
+        point: 20
+      - cardType: 2
+        point: 20
+      - cardType: 5
+        point: 20
+      - cardType: 2
+        point: 20
+      - cardType: 2
+        point: 13
+    - level: 91
+      rewards:
+      - cardType: 5
+        point: 20
+      - cardType: 1
+        point: 20
+      - cardType: 7
+        point: 7
+      - cardType: 1
+        point: 20
+    - level: 92
+      rewards:
+      - cardType: 8
+        point: 9
+      - cardType: 4
+        point: 20
+      - cardType: 5
+        point: 17
+    - level: 93
+      rewards:
+      - cardType: 5
+        point: 1
+    - level: 94
+      rewards:
+      - cardType: 1
+        point: 20
+      - cardType: 7
+        point: 20
+    - level: 95
+      rewards:
+      - cardType: 9
+        point: 5
+      - cardType: 5
+        point: 7
+      - cardType: 3
+        point: 20
+      - cardType: 4
+        point: 20
+      - cardType: 3
+        point: 5
+    - level: 96
+      rewards:
+      - cardType: 4
+        point: 3
+    - level: 97
+      rewards:
+      - cardType: 7
+        point: 20
+    - level: 98
+      rewards:
+      - cardType: 1
+        point: 20
+      - cardType: 4
+        point: 20
+      - cardType: 6
+        point: 11
+      - cardType: 6
+        point: 20
+    - level: 99
+      rewards:
+      - cardType: 4
+        point: 19
+      - cardType: 1
+        point: 20
+    - level: 100
+      rewards:
+      - cardType: 4
+        point: 16
