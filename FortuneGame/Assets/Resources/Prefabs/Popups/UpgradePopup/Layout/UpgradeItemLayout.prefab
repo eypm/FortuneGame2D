@@ -86,7 +86,6 @@ GameObject:
   m_Component:
   - component: {fileID: 6231896942956075602}
   - component: {fileID: 3257301379615771029}
-  - component: {fileID: 3329111897084191821}
   - component: {fileID: 8591703007011659256}
   m_Layer: 5
   m_Name: UpgradeItemLayout
@@ -127,26 +126,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2027162475360851258}
   m_CullTransparentMesh: 0
---- !u!114 &3329111897084191821
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2027162475360851258}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_IgnoreLayout: 0
-  m_MinWidth: -1
-  m_MinHeight: -1
-  m_PreferredWidth: 150
-  m_PreferredHeight: 200
-  m_FlexibleWidth: -1
-  m_FlexibleHeight: -1
-  m_LayoutPriority: 1
 --- !u!114 &8591703007011659256
 MonoBehaviour:
   m_ObjectHideFlags: 0
