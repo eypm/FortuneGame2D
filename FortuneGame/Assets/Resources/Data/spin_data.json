@@ -1,0 +1,2046 @@
+{
+  "zoneDatas": [
+    {
+      "zoneLevel": 1,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 22
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 40000
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 2,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 51
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 40000
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 3,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 30000
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 75
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 4,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 30000
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 11
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 5,
+      "isSafeZone": false,
+      "bombChance": 0.0,
+      "zoneType": 2,
+      "rewards": [
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 55
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 50000
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 2
+    },
+    {
+      "zoneLevel": 6,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 2,
+          "rewardAmount": 10000
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 17
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 7,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 10000
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 85
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 8,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 10
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 50000
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 9,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 10000
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 52
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 10,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 2,
+          "rewardAmount": 60000
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 26
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 11,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 64
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 30000
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 12,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 51
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 70000
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 13,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 2,
+          "rewardAmount": 60000
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 17
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 14,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 57
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 70000
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 15,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 35
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 60000
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 16,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 70000
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 27
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 17,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 82
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 80000
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 18,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 2,
+          "rewardAmount": 10000
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 87
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 19,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 1,
+          "rewardAmount": 7
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 50000
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 20,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 51
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 10000
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 21,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 45
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 90000
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 22,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 20000
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 65
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 23,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 2,
+          "rewardAmount": 60000
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 21
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 24,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 1,
+          "rewardAmount": 12
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 90000
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 25,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 90000
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 13
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 26,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 90000
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 21
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 27,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 2,
+          "rewardAmount": 40000
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 63
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 28,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 2,
+          "rewardAmount": 80000
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 61
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 29,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 2,
+          "rewardAmount": 60000
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 18
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 30,
+      "isSafeZone": false,
+      "bombChance": 0.0,
+      "zoneType": 3,
+      "rewards": [
+        {
+          "rewardType": 1,
+          "rewardAmount": 84
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 90000
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 3
+    },
+    {
+      "zoneLevel": 31,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 30000
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 71
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 32,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 8
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 60000
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 33,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 23
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 50000
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 34,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 100000
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 19
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 35,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 78
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 30000
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 36,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 50000
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 39
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 37,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 2,
+          "rewardAmount": 50000
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 10
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 38,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 20000
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 28
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 39,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 1,
+          "rewardAmount": 16
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 60000
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 40,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 90000
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 51
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 41,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 81
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 90000
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 42,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 130000
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 93
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 43,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 42
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 110000
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 44,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 1,
+          "rewardAmount": 36
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 40000
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 45,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 1,
+          "rewardAmount": 99
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 60000
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 46,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 60000
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 8
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 47,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 2,
+          "rewardAmount": 80000
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 11
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 48,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 2,
+          "rewardAmount": 20000
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 25
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 49,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 30000
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 50
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    },
+    {
+      "zoneLevel": 50,
+      "isSafeZone": false,
+      "bombChance": 0.15,
+      "zoneType": 1,
+      "rewards": [
+        {
+          "rewardType": 6,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 4,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 8,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 1,
+          "rewardAmount": 27
+        },
+        {
+          "rewardType": 5,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 2,
+          "rewardAmount": 10000
+        },
+        {
+          "rewardType": 7,
+          "rewardAmount": 1
+        },
+        {
+          "rewardType": 3,
+          "rewardAmount": 1
+        }
+      ],
+      "ZoneType": 1
+    }
+  ]
+}

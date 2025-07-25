@@ -1,0 +1,4547 @@
+[
+  {
+    "cardType": 1,
+    "levels": [
+      {
+        "level": 1,
+        "upgradeCost": 10000,
+        "point": 1
+      },
+      {
+        "level": 2,
+        "upgradeCost": 200000,
+        "point": 2
+      },
+      {
+        "level": 3,
+        "upgradeCost": 370000,
+        "point": 3
+      },
+      {
+        "level": 4,
+        "upgradeCost": 530000,
+        "point": 4
+      },
+      {
+        "level": 5,
+        "upgradeCost": 680000,
+        "point": 5
+      },
+      {
+        "level": 6,
+        "upgradeCost": 820000,
+        "point": 6
+      },
+      {
+        "level": 7,
+        "upgradeCost": 950000,
+        "point": 7
+      },
+      {
+        "level": 8,
+        "upgradeCost": 1080000,
+        "point": 8
+      },
+      {
+        "level": 9,
+        "upgradeCost": 1190000,
+        "point": 9
+      },
+      {
+        "level": 10,
+        "upgradeCost": 1310000,
+        "point": 10
+      },
+      {
+        "level": 11,
+        "upgradeCost": 1410000,
+        "point": 11
+      },
+      {
+        "level": 12,
+        "upgradeCost": 1510000,
+        "point": 12
+      },
+      {
+        "level": 13,
+        "upgradeCost": 1610000,
+        "point": 13
+      },
+      {
+        "level": 14,
+        "upgradeCost": 1700000,
+        "point": 14
+      },
+      {
+        "level": 15,
+        "upgradeCost": 1790000,
+        "point": 15
+      },
+      {
+        "level": 16,
+        "upgradeCost": 1870000,
+        "point": 16
+      },
+      {
+        "level": 17,
+        "upgradeCost": 1960000,
+        "point": 17
+      },
+      {
+        "level": 18,
+        "upgradeCost": 2030000,
+        "point": 18
+      },
+      {
+        "level": 19,
+        "upgradeCost": 2110000,
+        "point": 19
+      },
+      {
+        "level": 20,
+        "upgradeCost": 2180000,
+        "point": 20
+      },
+      {
+        "level": 21,
+        "upgradeCost": 2260000,
+        "point": 21
+      },
+      {
+        "level": 22,
+        "upgradeCost": 2320000,
+        "point": 22
+      },
+      {
+        "level": 23,
+        "upgradeCost": 2390000,
+        "point": 23
+      },
+      {
+        "level": 24,
+        "upgradeCost": 2460000,
+        "point": 24
+      },
+      {
+        "level": 25,
+        "upgradeCost": 2520000,
+        "point": 25
+      },
+      {
+        "level": 26,
+        "upgradeCost": 2580000,
+        "point": 26
+      },
+      {
+        "level": 27,
+        "upgradeCost": 2640000,
+        "point": 27
+      },
+      {
+        "level": 28,
+        "upgradeCost": 2700000,
+        "point": 28
+      },
+      {
+        "level": 29,
+        "upgradeCost": 2750000,
+        "point": 29
+      },
+      {
+        "level": 30,
+        "upgradeCost": 2810000,
+        "point": 30
+      },
+      {
+        "level": 31,
+        "upgradeCost": 2860000,
+        "point": 31
+      },
+      {
+        "level": 32,
+        "upgradeCost": 2910000,
+        "point": 32
+      },
+      {
+        "level": 33,
+        "upgradeCost": 2960000,
+        "point": 33
+      },
+      {
+        "level": 34,
+        "upgradeCost": 3010000,
+        "point": 34
+      },
+      {
+        "level": 35,
+        "upgradeCost": 3060000,
+        "point": 35
+      },
+      {
+        "level": 36,
+        "upgradeCost": 3110000,
+        "point": 36
+      },
+      {
+        "level": 37,
+        "upgradeCost": 3160000,
+        "point": 37
+      },
+      {
+        "level": 38,
+        "upgradeCost": 3200000,
+        "point": 38
+      },
+      {
+        "level": 39,
+        "upgradeCost": 3250000,
+        "point": 39
+      },
+      {
+        "level": 40,
+        "upgradeCost": 3290000,
+        "point": 40
+      },
+      {
+        "level": 41,
+        "upgradeCost": 3330000,
+        "point": 41
+      },
+      {
+        "level": 42,
+        "upgradeCost": 3380000,
+        "point": 42
+      },
+      {
+        "level": 43,
+        "upgradeCost": 3420000,
+        "point": 43
+      },
+      {
+        "level": 44,
+        "upgradeCost": 3460000,
+        "point": 44
+      },
+      {
+        "level": 45,
+        "upgradeCost": 3500000,
+        "point": 45
+      },
+      {
+        "level": 46,
+        "upgradeCost": 3540000,
+        "point": 46
+      },
+      {
+        "level": 47,
+        "upgradeCost": 3580000,
+        "point": 47
+      },
+      {
+        "level": 48,
+        "upgradeCost": 3610000,
+        "point": 48
+      },
+      {
+        "level": 49,
+        "upgradeCost": 3650000,
+        "point": 49
+      },
+      {
+        "level": 50,
+        "upgradeCost": 3690000,
+        "point": 50
+      },
+      {
+        "level": 51,
+        "upgradeCost": 3720000,
+        "point": 51
+      },
+      {
+        "level": 52,
+        "upgradeCost": 3760000,
+        "point": 52
+      },
+      {
+        "level": 53,
+        "upgradeCost": 3790000,
+        "point": 53
+      },
+      {
+        "level": 54,
+        "upgradeCost": 3830000,
+        "point": 54
+      },
+      {
+        "level": 55,
+        "upgradeCost": 3860000,
+        "point": 55
+      },
+      {
+        "level": 56,
+        "upgradeCost": 3890000,
+        "point": 56
+      },
+      {
+        "level": 57,
+        "upgradeCost": 3930000,
+        "point": 57
+      },
+      {
+        "level": 58,
+        "upgradeCost": 3960000,
+        "point": 58
+      },
+      {
+        "level": 59,
+        "upgradeCost": 3990000,
+        "point": 59
+      },
+      {
+        "level": 60,
+        "upgradeCost": 4020000,
+        "point": 60
+      },
+      {
+        "level": 61,
+        "upgradeCost": 4050000,
+        "point": 61
+      },
+      {
+        "level": 62,
+        "upgradeCost": 4080000,
+        "point": 62
+      },
+      {
+        "level": 63,
+        "upgradeCost": 4110000,
+        "point": 63
+      },
+      {
+        "level": 64,
+        "upgradeCost": 4140000,
+        "point": 64
+      },
+      {
+        "level": 65,
+        "upgradeCost": 4170000,
+        "point": 65
+      },
+      {
+        "level": 66,
+        "upgradeCost": 4200000,
+        "point": 66
+      },
+      {
+        "level": 67,
+        "upgradeCost": 4230000,
+        "point": 67
+      },
+      {
+        "level": 68,
+        "upgradeCost": 4260000,
+        "point": 68
+      },
+      {
+        "level": 69,
+        "upgradeCost": 4280000,
+        "point": 69
+      },
+      {
+        "level": 70,
+        "upgradeCost": 4310000,
+        "point": 70
+      },
+      {
+        "level": 71,
+        "upgradeCost": 4340000,
+        "point": 71
+      },
+      {
+        "level": 72,
+        "upgradeCost": 4360000,
+        "point": 72
+      },
+      {
+        "level": 73,
+        "upgradeCost": 4390000,
+        "point": 73
+      },
+      {
+        "level": 74,
+        "upgradeCost": 4420000,
+        "point": 74
+      },
+      {
+        "level": 75,
+        "upgradeCost": 4440000,
+        "point": 75
+      },
+      {
+        "level": 76,
+        "upgradeCost": 4470000,
+        "point": 76
+      },
+      {
+        "level": 77,
+        "upgradeCost": 4490000,
+        "point": 77
+      },
+      {
+        "level": 78,
+        "upgradeCost": 4520000,
+        "point": 78
+      },
+      {
+        "level": 79,
+        "upgradeCost": 4540000,
+        "point": 79
+      },
+      {
+        "level": 80,
+        "upgradeCost": 4570000,
+        "point": 80
+      },
+      {
+        "level": 81,
+        "upgradeCost": 4590000,
+        "point": 81
+      },
+      {
+        "level": 82,
+        "upgradeCost": 4610000,
+        "point": 82
+      },
+      {
+        "level": 83,
+        "upgradeCost": 4640000,
+        "point": 83
+      },
+      {
+        "level": 84,
+        "upgradeCost": 4660000,
+        "point": 84
+      },
+      {
+        "level": 85,
+        "upgradeCost": 4680000,
+        "point": 85
+      },
+      {
+        "level": 86,
+        "upgradeCost": 4700000,
+        "point": 86
+      },
+      {
+        "level": 87,
+        "upgradeCost": 4730000,
+        "point": 87
+      },
+      {
+        "level": 88,
+        "upgradeCost": 4750000,
+        "point": 88
+      },
+      {
+        "level": 89,
+        "upgradeCost": 4770000,
+        "point": 89
+      },
+      {
+        "level": 90,
+        "upgradeCost": 4790000,
+        "point": 90
+      },
+      {
+        "level": 91,
+        "upgradeCost": 4820000,
+        "point": 91
+      },
+      {
+        "level": 92,
+        "upgradeCost": 4840000,
+        "point": 92
+      },
+      {
+        "level": 93,
+        "upgradeCost": 4860000,
+        "point": 93
+      },
+      {
+        "level": 94,
+        "upgradeCost": 4880000,
+        "point": 94
+      },
+      {
+        "level": 95,
+        "upgradeCost": 4900000,
+        "point": 95
+      },
+      {
+        "level": 96,
+        "upgradeCost": 4920000,
+        "point": 96
+      },
+      {
+        "level": 97,
+        "upgradeCost": 4940000,
+        "point": 97
+      },
+      {
+        "level": 98,
+        "upgradeCost": 4960000,
+        "point": 98
+      },
+      {
+        "level": 99,
+        "upgradeCost": 4980000,
+        "point": 99
+      },
+      {
+        "level": 100,
+        "upgradeCost": 5000000,
+        "point": 100
+      }
+    ]
+  },
+  {
+    "cardType": 2,
+    "levels": [
+      {
+        "level": 1,
+        "upgradeCost": 10000,
+        "point": 1
+      },
+      {
+        "level": 2,
+        "upgradeCost": 200000,
+        "point": 2
+      },
+      {
+        "level": 3,
+        "upgradeCost": 370000,
+        "point": 3
+      },
+      {
+        "level": 4,
+        "upgradeCost": 530000,
+        "point": 4
+      },
+      {
+        "level": 5,
+        "upgradeCost": 680000,
+        "point": 5
+      },
+      {
+        "level": 6,
+        "upgradeCost": 820000,
+        "point": 6
+      },
+      {
+        "level": 7,
+        "upgradeCost": 950000,
+        "point": 7
+      },
+      {
+        "level": 8,
+        "upgradeCost": 1080000,
+        "point": 8
+      },
+      {
+        "level": 9,
+        "upgradeCost": 1190000,
+        "point": 9
+      },
+      {
+        "level": 10,
+        "upgradeCost": 1310000,
+        "point": 10
+      },
+      {
+        "level": 11,
+        "upgradeCost": 1410000,
+        "point": 11
+      },
+      {
+        "level": 12,
+        "upgradeCost": 1510000,
+        "point": 12
+      },
+      {
+        "level": 13,
+        "upgradeCost": 1610000,
+        "point": 13
+      },
+      {
+        "level": 14,
+        "upgradeCost": 1700000,
+        "point": 14
+      },
+      {
+        "level": 15,
+        "upgradeCost": 1790000,
+        "point": 15
+      },
+      {
+        "level": 16,
+        "upgradeCost": 1870000,
+        "point": 16
+      },
+      {
+        "level": 17,
+        "upgradeCost": 1960000,
+        "point": 17
+      },
+      {
+        "level": 18,
+        "upgradeCost": 2030000,
+        "point": 18
+      },
+      {
+        "level": 19,
+        "upgradeCost": 2110000,
+        "point": 19
+      },
+      {
+        "level": 20,
+        "upgradeCost": 2180000,
+        "point": 20
+      },
+      {
+        "level": 21,
+        "upgradeCost": 2260000,
+        "point": 21
+      },
+      {
+        "level": 22,
+        "upgradeCost": 2320000,
+        "point": 22
+      },
+      {
+        "level": 23,
+        "upgradeCost": 2390000,
+        "point": 23
+      },
+      {
+        "level": 24,
+        "upgradeCost": 2460000,
+        "point": 24
+      },
+      {
+        "level": 25,
+        "upgradeCost": 2520000,
+        "point": 25
+      },
+      {
+        "level": 26,
+        "upgradeCost": 2580000,
+        "point": 26
+      },
+      {
+        "level": 27,
+        "upgradeCost": 2640000,
+        "point": 27
+      },
+      {
+        "level": 28,
+        "upgradeCost": 2700000,
+        "point": 28
+      },
+      {
+        "level": 29,
+        "upgradeCost": 2750000,
+        "point": 29
+      },
+      {
+        "level": 30,
+        "upgradeCost": 2810000,
+        "point": 30
+      },
+      {
+        "level": 31,
+        "upgradeCost": 2860000,
+        "point": 31
+      },
+      {
+        "level": 32,
+        "upgradeCost": 2910000,
+        "point": 32
+      },
+      {
+        "level": 33,
+        "upgradeCost": 2960000,
+        "point": 33
+      },
+      {
+        "level": 34,
+        "upgradeCost": 3010000,
+        "point": 34
+      },
+      {
+        "level": 35,
+        "upgradeCost": 3060000,
+        "point": 35
+      },
+      {
+        "level": 36,
+        "upgradeCost": 3110000,
+        "point": 36
+      },
+      {
+        "level": 37,
+        "upgradeCost": 3160000,
+        "point": 37
+      },
+      {
+        "level": 38,
+        "upgradeCost": 3200000,
+        "point": 38
+      },
+      {
+        "level": 39,
+        "upgradeCost": 3250000,
+        "point": 39
+      },
+      {
+        "level": 40,
+        "upgradeCost": 3290000,
+        "point": 40
+      },
+      {
+        "level": 41,
+        "upgradeCost": 3330000,
+        "point": 41
+      },
+      {
+        "level": 42,
+        "upgradeCost": 3380000,
+        "point": 42
+      },
+      {
+        "level": 43,
+        "upgradeCost": 3420000,
+        "point": 43
+      },
+      {
+        "level": 44,
+        "upgradeCost": 3460000,
+        "point": 44
+      },
+      {
+        "level": 45,
+        "upgradeCost": 3500000,
+        "point": 45
+      },
+      {
+        "level": 46,
+        "upgradeCost": 3540000,
+        "point": 46
+      },
+      {
+        "level": 47,
+        "upgradeCost": 3580000,
+        "point": 47
+      },
+      {
+        "level": 48,
+        "upgradeCost": 3610000,
+        "point": 48
+      },
+      {
+        "level": 49,
+        "upgradeCost": 3650000,
+        "point": 49
+      },
+      {
+        "level": 50,
+        "upgradeCost": 3690000,
+        "point": 50
+      },
+      {
+        "level": 51,
+        "upgradeCost": 3720000,
+        "point": 51
+      },
+      {
+        "level": 52,
+        "upgradeCost": 3760000,
+        "point": 52
+      },
+      {
+        "level": 53,
+        "upgradeCost": 3790000,
+        "point": 53
+      },
+      {
+        "level": 54,
+        "upgradeCost": 3830000,
+        "point": 54
+      },
+      {
+        "level": 55,
+        "upgradeCost": 3860000,
+        "point": 55
+      },
+      {
+        "level": 56,
+        "upgradeCost": 3890000,
+        "point": 56
+      },
+      {
+        "level": 57,
+        "upgradeCost": 3930000,
+        "point": 57
+      },
+      {
+        "level": 58,
+        "upgradeCost": 3960000,
+        "point": 58
+      },
+      {
+        "level": 59,
+        "upgradeCost": 3990000,
+        "point": 59
+      },
+      {
+        "level": 60,
+        "upgradeCost": 4020000,
+        "point": 60
+      },
+      {
+        "level": 61,
+        "upgradeCost": 4050000,
+        "point": 61
+      },
+      {
+        "level": 62,
+        "upgradeCost": 4080000,
+        "point": 62
+      },
+      {
+        "level": 63,
+        "upgradeCost": 4110000,
+        "point": 63
+      },
+      {
+        "level": 64,
+        "upgradeCost": 4140000,
+        "point": 64
+      },
+      {
+        "level": 65,
+        "upgradeCost": 4170000,
+        "point": 65
+      },
+      {
+        "level": 66,
+        "upgradeCost": 4200000,
+        "point": 66
+      },
+      {
+        "level": 67,
+        "upgradeCost": 4230000,
+        "point": 67
+      },
+      {
+        "level": 68,
+        "upgradeCost": 4260000,
+        "point": 68
+      },
+      {
+        "level": 69,
+        "upgradeCost": 4280000,
+        "point": 69
+      },
+      {
+        "level": 70,
+        "upgradeCost": 4310000,
+        "point": 70
+      },
+      {
+        "level": 71,
+        "upgradeCost": 4340000,
+        "point": 71
+      },
+      {
+        "level": 72,
+        "upgradeCost": 4360000,
+        "point": 72
+      },
+      {
+        "level": 73,
+        "upgradeCost": 4390000,
+        "point": 73
+      },
+      {
+        "level": 74,
+        "upgradeCost": 4420000,
+        "point": 74
+      },
+      {
+        "level": 75,
+        "upgradeCost": 4440000,
+        "point": 75
+      },
+      {
+        "level": 76,
+        "upgradeCost": 4470000,
+        "point": 76
+      },
+      {
+        "level": 77,
+        "upgradeCost": 4490000,
+        "point": 77
+      },
+      {
+        "level": 78,
+        "upgradeCost": 4520000,
+        "point": 78
+      },
+      {
+        "level": 79,
+        "upgradeCost": 4540000,
+        "point": 79
+      },
+      {
+        "level": 80,
+        "upgradeCost": 4570000,
+        "point": 80
+      },
+      {
+        "level": 81,
+        "upgradeCost": 4590000,
+        "point": 81
+      },
+      {
+        "level": 82,
+        "upgradeCost": 4610000,
+        "point": 82
+      },
+      {
+        "level": 83,
+        "upgradeCost": 4640000,
+        "point": 83
+      },
+      {
+        "level": 84,
+        "upgradeCost": 4660000,
+        "point": 84
+      },
+      {
+        "level": 85,
+        "upgradeCost": 4680000,
+        "point": 85
+      },
+      {
+        "level": 86,
+        "upgradeCost": 4700000,
+        "point": 86
+      },
+      {
+        "level": 87,
+        "upgradeCost": 4730000,
+        "point": 87
+      },
+      {
+        "level": 88,
+        "upgradeCost": 4750000,
+        "point": 88
+      },
+      {
+        "level": 89,
+        "upgradeCost": 4770000,
+        "point": 89
+      },
+      {
+        "level": 90,
+        "upgradeCost": 4790000,
+        "point": 90
+      },
+      {
+        "level": 91,
+        "upgradeCost": 4820000,
+        "point": 91
+      },
+      {
+        "level": 92,
+        "upgradeCost": 4840000,
+        "point": 92
+      },
+      {
+        "level": 93,
+        "upgradeCost": 4860000,
+        "point": 93
+      },
+      {
+        "level": 94,
+        "upgradeCost": 4880000,
+        "point": 94
+      },
+      {
+        "level": 95,
+        "upgradeCost": 4900000,
+        "point": 95
+      },
+      {
+        "level": 96,
+        "upgradeCost": 4920000,
+        "point": 96
+      },
+      {
+        "level": 97,
+        "upgradeCost": 4940000,
+        "point": 97
+      },
+      {
+        "level": 98,
+        "upgradeCost": 4960000,
+        "point": 98
+      },
+      {
+        "level": 99,
+        "upgradeCost": 4980000,
+        "point": 99
+      },
+      {
+        "level": 100,
+        "upgradeCost": 5000000,
+        "point": 100
+      }
+    ]
+  },
+  {
+    "cardType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "upgradeCost": 10000,
+        "point": 1
+      },
+      {
+        "level": 2,
+        "upgradeCost": 200000,
+        "point": 2
+      },
+      {
+        "level": 3,
+        "upgradeCost": 370000,
+        "point": 3
+      },
+      {
+        "level": 4,
+        "upgradeCost": 530000,
+        "point": 4
+      },
+      {
+        "level": 5,
+        "upgradeCost": 680000,
+        "point": 5
+      },
+      {
+        "level": 6,
+        "upgradeCost": 820000,
+        "point": 6
+      },
+      {
+        "level": 7,
+        "upgradeCost": 950000,
+        "point": 7
+      },
+      {
+        "level": 8,
+        "upgradeCost": 1080000,
+        "point": 8
+      },
+      {
+        "level": 9,
+        "upgradeCost": 1190000,
+        "point": 9
+      },
+      {
+        "level": 10,
+        "upgradeCost": 1310000,
+        "point": 10
+      },
+      {
+        "level": 11,
+        "upgradeCost": 1410000,
+        "point": 11
+      },
+      {
+        "level": 12,
+        "upgradeCost": 1510000,
+        "point": 12
+      },
+      {
+        "level": 13,
+        "upgradeCost": 1610000,
+        "point": 13
+      },
+      {
+        "level": 14,
+        "upgradeCost": 1700000,
+        "point": 14
+      },
+      {
+        "level": 15,
+        "upgradeCost": 1790000,
+        "point": 15
+      },
+      {
+        "level": 16,
+        "upgradeCost": 1870000,
+        "point": 16
+      },
+      {
+        "level": 17,
+        "upgradeCost": 1960000,
+        "point": 17
+      },
+      {
+        "level": 18,
+        "upgradeCost": 2030000,
+        "point": 18
+      },
+      {
+        "level": 19,
+        "upgradeCost": 2110000,
+        "point": 19
+      },
+      {
+        "level": 20,
+        "upgradeCost": 2180000,
+        "point": 20
+      },
+      {
+        "level": 21,
+        "upgradeCost": 2260000,
+        "point": 21
+      },
+      {
+        "level": 22,
+        "upgradeCost": 2320000,
+        "point": 22
+      },
+      {
+        "level": 23,
+        "upgradeCost": 2390000,
+        "point": 23
+      },
+      {
+        "level": 24,
+        "upgradeCost": 2460000,
+        "point": 24
+      },
+      {
+        "level": 25,
+        "upgradeCost": 2520000,
+        "point": 25
+      },
+      {
+        "level": 26,
+        "upgradeCost": 2580000,
+        "point": 26
+      },
+      {
+        "level": 27,
+        "upgradeCost": 2640000,
+        "point": 27
+      },
+      {
+        "level": 28,
+        "upgradeCost": 2700000,
+        "point": 28
+      },
+      {
+        "level": 29,
+        "upgradeCost": 2750000,
+        "point": 29
+      },
+      {
+        "level": 30,
+        "upgradeCost": 2810000,
+        "point": 30
+      },
+      {
+        "level": 31,
+        "upgradeCost": 2860000,
+        "point": 31
+      },
+      {
+        "level": 32,
+        "upgradeCost": 2910000,
+        "point": 32
+      },
+      {
+        "level": 33,
+        "upgradeCost": 2960000,
+        "point": 33
+      },
+      {
+        "level": 34,
+        "upgradeCost": 3010000,
+        "point": 34
+      },
+      {
+        "level": 35,
+        "upgradeCost": 3060000,
+        "point": 35
+      },
+      {
+        "level": 36,
+        "upgradeCost": 3110000,
+        "point": 36
+      },
+      {
+        "level": 37,
+        "upgradeCost": 3160000,
+        "point": 37
+      },
+      {
+        "level": 38,
+        "upgradeCost": 3200000,
+        "point": 38
+      },
+      {
+        "level": 39,
+        "upgradeCost": 3250000,
+        "point": 39
+      },
+      {
+        "level": 40,
+        "upgradeCost": 3290000,
+        "point": 40
+      },
+      {
+        "level": 41,
+        "upgradeCost": 3330000,
+        "point": 41
+      },
+      {
+        "level": 42,
+        "upgradeCost": 3380000,
+        "point": 42
+      },
+      {
+        "level": 43,
+        "upgradeCost": 3420000,
+        "point": 43
+      },
+      {
+        "level": 44,
+        "upgradeCost": 3460000,
+        "point": 44
+      },
+      {
+        "level": 45,
+        "upgradeCost": 3500000,
+        "point": 45
+      },
+      {
+        "level": 46,
+        "upgradeCost": 3540000,
+        "point": 46
+      },
+      {
+        "level": 47,
+        "upgradeCost": 3580000,
+        "point": 47
+      },
+      {
+        "level": 48,
+        "upgradeCost": 3610000,
+        "point": 48
+      },
+      {
+        "level": 49,
+        "upgradeCost": 3650000,
+        "point": 49
+      },
+      {
+        "level": 50,
+        "upgradeCost": 3690000,
+        "point": 50
+      },
+      {
+        "level": 51,
+        "upgradeCost": 3720000,
+        "point": 51
+      },
+      {
+        "level": 52,
+        "upgradeCost": 3760000,
+        "point": 52
+      },
+      {
+        "level": 53,
+        "upgradeCost": 3790000,
+        "point": 53
+      },
+      {
+        "level": 54,
+        "upgradeCost": 3830000,
+        "point": 54
+      },
+      {
+        "level": 55,
+        "upgradeCost": 3860000,
+        "point": 55
+      },
+      {
+        "level": 56,
+        "upgradeCost": 3890000,
+        "point": 56
+      },
+      {
+        "level": 57,
+        "upgradeCost": 3930000,
+        "point": 57
+      },
+      {
+        "level": 58,
+        "upgradeCost": 3960000,
+        "point": 58
+      },
+      {
+        "level": 59,
+        "upgradeCost": 3990000,
+        "point": 59
+      },
+      {
+        "level": 60,
+        "upgradeCost": 4020000,
+        "point": 60
+      },
+      {
+        "level": 61,
+        "upgradeCost": 4050000,
+        "point": 61
+      },
+      {
+        "level": 62,
+        "upgradeCost": 4080000,
+        "point": 62
+      },
+      {
+        "level": 63,
+        "upgradeCost": 4110000,
+        "point": 63
+      },
+      {
+        "level": 64,
+        "upgradeCost": 4140000,
+        "point": 64
+      },
+      {
+        "level": 65,
+        "upgradeCost": 4170000,
+        "point": 65
+      },
+      {
+        "level": 66,
+        "upgradeCost": 4200000,
+        "point": 66
+      },
+      {
+        "level": 67,
+        "upgradeCost": 4230000,
+        "point": 67
+      },
+      {
+        "level": 68,
+        "upgradeCost": 4260000,
+        "point": 68
+      },
+      {
+        "level": 69,
+        "upgradeCost": 4280000,
+        "point": 69
+      },
+      {
+        "level": 70,
+        "upgradeCost": 4310000,
+        "point": 70
+      },
+      {
+        "level": 71,
+        "upgradeCost": 4340000,
+        "point": 71
+      },
+      {
+        "level": 72,
+        "upgradeCost": 4360000,
+        "point": 72
+      },
+      {
+        "level": 73,
+        "upgradeCost": 4390000,
+        "point": 73
+      },
+      {
+        "level": 74,
+        "upgradeCost": 4420000,
+        "point": 74
+      },
+      {
+        "level": 75,
+        "upgradeCost": 4440000,
+        "point": 75
+      },
+      {
+        "level": 76,
+        "upgradeCost": 4470000,
+        "point": 76
+      },
+      {
+        "level": 77,
+        "upgradeCost": 4490000,
+        "point": 77
+      },
+      {
+        "level": 78,
+        "upgradeCost": 4520000,
+        "point": 78
+      },
+      {
+        "level": 79,
+        "upgradeCost": 4540000,
+        "point": 79
+      },
+      {
+        "level": 80,
+        "upgradeCost": 4570000,
+        "point": 80
+      },
+      {
+        "level": 81,
+        "upgradeCost": 4590000,
+        "point": 81
+      },
+      {
+        "level": 82,
+        "upgradeCost": 4610000,
+        "point": 82
+      },
+      {
+        "level": 83,
+        "upgradeCost": 4640000,
+        "point": 83
+      },
+      {
+        "level": 84,
+        "upgradeCost": 4660000,
+        "point": 84
+      },
+      {
+        "level": 85,
+        "upgradeCost": 4680000,
+        "point": 85
+      },
+      {
+        "level": 86,
+        "upgradeCost": 4700000,
+        "point": 86
+      },
+      {
+        "level": 87,
+        "upgradeCost": 4730000,
+        "point": 87
+      },
+      {
+        "level": 88,
+        "upgradeCost": 4750000,
+        "point": 88
+      },
+      {
+        "level": 89,
+        "upgradeCost": 4770000,
+        "point": 89
+      },
+      {
+        "level": 90,
+        "upgradeCost": 4790000,
+        "point": 90
+      },
+      {
+        "level": 91,
+        "upgradeCost": 4820000,
+        "point": 91
+      },
+      {
+        "level": 92,
+        "upgradeCost": 4840000,
+        "point": 92
+      },
+      {
+        "level": 93,
+        "upgradeCost": 4860000,
+        "point": 93
+      },
+      {
+        "level": 94,
+        "upgradeCost": 4880000,
+        "point": 94
+      },
+      {
+        "level": 95,
+        "upgradeCost": 4900000,
+        "point": 95
+      },
+      {
+        "level": 96,
+        "upgradeCost": 4920000,
+        "point": 96
+      },
+      {
+        "level": 97,
+        "upgradeCost": 4940000,
+        "point": 97
+      },
+      {
+        "level": 98,
+        "upgradeCost": 4960000,
+        "point": 98
+      },
+      {
+        "level": 99,
+        "upgradeCost": 4980000,
+        "point": 99
+      },
+      {
+        "level": 100,
+        "upgradeCost": 5000000,
+        "point": 100
+      }
+    ]
+  },
+  {
+    "cardType": 4,
+    "levels": [
+      {
+        "level": 1,
+        "upgradeCost": 10000,
+        "point": 1
+      },
+      {
+        "level": 2,
+        "upgradeCost": 200000,
+        "point": 2
+      },
+      {
+        "level": 3,
+        "upgradeCost": 370000,
+        "point": 3
+      },
+      {
+        "level": 4,
+        "upgradeCost": 530000,
+        "point": 4
+      },
+      {
+        "level": 5,
+        "upgradeCost": 680000,
+        "point": 5
+      },
+      {
+        "level": 6,
+        "upgradeCost": 820000,
+        "point": 6
+      },
+      {
+        "level": 7,
+        "upgradeCost": 950000,
+        "point": 7
+      },
+      {
+        "level": 8,
+        "upgradeCost": 1080000,
+        "point": 8
+      },
+      {
+        "level": 9,
+        "upgradeCost": 1190000,
+        "point": 9
+      },
+      {
+        "level": 10,
+        "upgradeCost": 1310000,
+        "point": 10
+      },
+      {
+        "level": 11,
+        "upgradeCost": 1410000,
+        "point": 11
+      },
+      {
+        "level": 12,
+        "upgradeCost": 1510000,
+        "point": 12
+      },
+      {
+        "level": 13,
+        "upgradeCost": 1610000,
+        "point": 13
+      },
+      {
+        "level": 14,
+        "upgradeCost": 1700000,
+        "point": 14
+      },
+      {
+        "level": 15,
+        "upgradeCost": 1790000,
+        "point": 15
+      },
+      {
+        "level": 16,
+        "upgradeCost": 1870000,
+        "point": 16
+      },
+      {
+        "level": 17,
+        "upgradeCost": 1960000,
+        "point": 17
+      },
+      {
+        "level": 18,
+        "upgradeCost": 2030000,
+        "point": 18
+      },
+      {
+        "level": 19,
+        "upgradeCost": 2110000,
+        "point": 19
+      },
+      {
+        "level": 20,
+        "upgradeCost": 2180000,
+        "point": 20
+      },
+      {
+        "level": 21,
+        "upgradeCost": 2260000,
+        "point": 21
+      },
+      {
+        "level": 22,
+        "upgradeCost": 2320000,
+        "point": 22
+      },
+      {
+        "level": 23,
+        "upgradeCost": 2390000,
+        "point": 23
+      },
+      {
+        "level": 24,
+        "upgradeCost": 2460000,
+        "point": 24
+      },
+      {
+        "level": 25,
+        "upgradeCost": 2520000,
+        "point": 25
+      },
+      {
+        "level": 26,
+        "upgradeCost": 2580000,
+        "point": 26
+      },
+      {
+        "level": 27,
+        "upgradeCost": 2640000,
+        "point": 27
+      },
+      {
+        "level": 28,
+        "upgradeCost": 2700000,
+        "point": 28
+      },
+      {
+        "level": 29,
+        "upgradeCost": 2750000,
+        "point": 29
+      },
+      {
+        "level": 30,
+        "upgradeCost": 2810000,
+        "point": 30
+      },
+      {
+        "level": 31,
+        "upgradeCost": 2860000,
+        "point": 31
+      },
+      {
+        "level": 32,
+        "upgradeCost": 2910000,
+        "point": 32
+      },
+      {
+        "level": 33,
+        "upgradeCost": 2960000,
+        "point": 33
+      },
+      {
+        "level": 34,
+        "upgradeCost": 3010000,
+        "point": 34
+      },
+      {
+        "level": 35,
+        "upgradeCost": 3060000,
+        "point": 35
+      },
+      {
+        "level": 36,
+        "upgradeCost": 3110000,
+        "point": 36
+      },
+      {
+        "level": 37,
+        "upgradeCost": 3160000,
+        "point": 37
+      },
+      {
+        "level": 38,
+        "upgradeCost": 3200000,
+        "point": 38
+      },
+      {
+        "level": 39,
+        "upgradeCost": 3250000,
+        "point": 39
+      },
+      {
+        "level": 40,
+        "upgradeCost": 3290000,
+        "point": 40
+      },
+      {
+        "level": 41,
+        "upgradeCost": 3330000,
+        "point": 41
+      },
+      {
+        "level": 42,
+        "upgradeCost": 3380000,
+        "point": 42
+      },
+      {
+        "level": 43,
+        "upgradeCost": 3420000,
+        "point": 43
+      },
+      {
+        "level": 44,
+        "upgradeCost": 3460000,
+        "point": 44
+      },
+      {
+        "level": 45,
+        "upgradeCost": 3500000,
+        "point": 45
+      },
+      {
+        "level": 46,
+        "upgradeCost": 3540000,
+        "point": 46
+      },
+      {
+        "level": 47,
+        "upgradeCost": 3580000,
+        "point": 47
+      },
+      {
+        "level": 48,
+        "upgradeCost": 3610000,
+        "point": 48
+      },
+      {
+        "level": 49,
+        "upgradeCost": 3650000,
+        "point": 49
+      },
+      {
+        "level": 50,
+        "upgradeCost": 3690000,
+        "point": 50
+      },
+      {
+        "level": 51,
+        "upgradeCost": 3720000,
+        "point": 51
+      },
+      {
+        "level": 52,
+        "upgradeCost": 3760000,
+        "point": 52
+      },
+      {
+        "level": 53,
+        "upgradeCost": 3790000,
+        "point": 53
+      },
+      {
+        "level": 54,
+        "upgradeCost": 3830000,
+        "point": 54
+      },
+      {
+        "level": 55,
+        "upgradeCost": 3860000,
+        "point": 55
+      },
+      {
+        "level": 56,
+        "upgradeCost": 3890000,
+        "point": 56
+      },
+      {
+        "level": 57,
+        "upgradeCost": 3930000,
+        "point": 57
+      },
+      {
+        "level": 58,
+        "upgradeCost": 3960000,
+        "point": 58
+      },
+      {
+        "level": 59,
+        "upgradeCost": 3990000,
+        "point": 59
+      },
+      {
+        "level": 60,
+        "upgradeCost": 4020000,
+        "point": 60
+      },
+      {
+        "level": 61,
+        "upgradeCost": 4050000,
+        "point": 61
+      },
+      {
+        "level": 62,
+        "upgradeCost": 4080000,
+        "point": 62
+      },
+      {
+        "level": 63,
+        "upgradeCost": 4110000,
+        "point": 63
+      },
+      {
+        "level": 64,
+        "upgradeCost": 4140000,
+        "point": 64
+      },
+      {
+        "level": 65,
+        "upgradeCost": 4170000,
+        "point": 65
+      },
+      {
+        "level": 66,
+        "upgradeCost": 4200000,
+        "point": 66
+      },
+      {
+        "level": 67,
+        "upgradeCost": 4230000,
+        "point": 67
+      },
+      {
+        "level": 68,
+        "upgradeCost": 4260000,
+        "point": 68
+      },
+      {
+        "level": 69,
+        "upgradeCost": 4280000,
+        "point": 69
+      },
+      {
+        "level": 70,
+        "upgradeCost": 4310000,
+        "point": 70
+      },
+      {
+        "level": 71,
+        "upgradeCost": 4340000,
+        "point": 71
+      },
+      {
+        "level": 72,
+        "upgradeCost": 4360000,
+        "point": 72
+      },
+      {
+        "level": 73,
+        "upgradeCost": 4390000,
+        "point": 73
+      },
+      {
+        "level": 74,
+        "upgradeCost": 4420000,
+        "point": 74
+      },
+      {
+        "level": 75,
+        "upgradeCost": 4440000,
+        "point": 75
+      },
+      {
+        "level": 76,
+        "upgradeCost": 4470000,
+        "point": 76
+      },
+      {
+        "level": 77,
+        "upgradeCost": 4490000,
+        "point": 77
+      },
+      {
+        "level": 78,
+        "upgradeCost": 4520000,
+        "point": 78
+      },
+      {
+        "level": 79,
+        "upgradeCost": 4540000,
+        "point": 79
+      },
+      {
+        "level": 80,
+        "upgradeCost": 4570000,
+        "point": 80
+      },
+      {
+        "level": 81,
+        "upgradeCost": 4590000,
+        "point": 81
+      },
+      {
+        "level": 82,
+        "upgradeCost": 4610000,
+        "point": 82
+      },
+      {
+        "level": 83,
+        "upgradeCost": 4640000,
+        "point": 83
+      },
+      {
+        "level": 84,
+        "upgradeCost": 4660000,
+        "point": 84
+      },
+      {
+        "level": 85,
+        "upgradeCost": 4680000,
+        "point": 85
+      },
+      {
+        "level": 86,
+        "upgradeCost": 4700000,
+        "point": 86
+      },
+      {
+        "level": 87,
+        "upgradeCost": 4730000,
+        "point": 87
+      },
+      {
+        "level": 88,
+        "upgradeCost": 4750000,
+        "point": 88
+      },
+      {
+        "level": 89,
+        "upgradeCost": 4770000,
+        "point": 89
+      },
+      {
+        "level": 90,
+        "upgradeCost": 4790000,
+        "point": 90
+      },
+      {
+        "level": 91,
+        "upgradeCost": 4820000,
+        "point": 91
+      },
+      {
+        "level": 92,
+        "upgradeCost": 4840000,
+        "point": 92
+      },
+      {
+        "level": 93,
+        "upgradeCost": 4860000,
+        "point": 93
+      },
+      {
+        "level": 94,
+        "upgradeCost": 4880000,
+        "point": 94
+      },
+      {
+        "level": 95,
+        "upgradeCost": 4900000,
+        "point": 95
+      },
+      {
+        "level": 96,
+        "upgradeCost": 4920000,
+        "point": 96
+      },
+      {
+        "level": 97,
+        "upgradeCost": 4940000,
+        "point": 97
+      },
+      {
+        "level": 98,
+        "upgradeCost": 4960000,
+        "point": 98
+      },
+      {
+        "level": 99,
+        "upgradeCost": 4980000,
+        "point": 99
+      },
+      {
+        "level": 100,
+        "upgradeCost": 5000000,
+        "point": 100
+      }
+    ]
+  },
+  {
+    "cardType": 5,
+    "levels": [
+      {
+        "level": 1,
+        "upgradeCost": 10000,
+        "point": 1
+      },
+      {
+        "level": 2,
+        "upgradeCost": 200000,
+        "point": 2
+      },
+      {
+        "level": 3,
+        "upgradeCost": 370000,
+        "point": 3
+      },
+      {
+        "level": 4,
+        "upgradeCost": 530000,
+        "point": 4
+      },
+      {
+        "level": 5,
+        "upgradeCost": 680000,
+        "point": 5
+      },
+      {
+        "level": 6,
+        "upgradeCost": 820000,
+        "point": 6
+      },
+      {
+        "level": 7,
+        "upgradeCost": 950000,
+        "point": 7
+      },
+      {
+        "level": 8,
+        "upgradeCost": 1080000,
+        "point": 8
+      },
+      {
+        "level": 9,
+        "upgradeCost": 1190000,
+        "point": 9
+      },
+      {
+        "level": 10,
+        "upgradeCost": 1310000,
+        "point": 10
+      },
+      {
+        "level": 11,
+        "upgradeCost": 1410000,
+        "point": 11
+      },
+      {
+        "level": 12,
+        "upgradeCost": 1510000,
+        "point": 12
+      },
+      {
+        "level": 13,
+        "upgradeCost": 1610000,
+        "point": 13
+      },
+      {
+        "level": 14,
+        "upgradeCost": 1700000,
+        "point": 14
+      },
+      {
+        "level": 15,
+        "upgradeCost": 1790000,
+        "point": 15
+      },
+      {
+        "level": 16,
+        "upgradeCost": 1870000,
+        "point": 16
+      },
+      {
+        "level": 17,
+        "upgradeCost": 1960000,
+        "point": 17
+      },
+      {
+        "level": 18,
+        "upgradeCost": 2030000,
+        "point": 18
+      },
+      {
+        "level": 19,
+        "upgradeCost": 2110000,
+        "point": 19
+      },
+      {
+        "level": 20,
+        "upgradeCost": 2180000,
+        "point": 20
+      },
+      {
+        "level": 21,
+        "upgradeCost": 2260000,
+        "point": 21
+      },
+      {
+        "level": 22,
+        "upgradeCost": 2320000,
+        "point": 22
+      },
+      {
+        "level": 23,
+        "upgradeCost": 2390000,
+        "point": 23
+      },
+      {
+        "level": 24,
+        "upgradeCost": 2460000,
+        "point": 24
+      },
+      {
+        "level": 25,
+        "upgradeCost": 2520000,
+        "point": 25
+      },
+      {
+        "level": 26,
+        "upgradeCost": 2580000,
+        "point": 26
+      },
+      {
+        "level": 27,
+        "upgradeCost": 2640000,
+        "point": 27
+      },
+      {
+        "level": 28,
+        "upgradeCost": 2700000,
+        "point": 28
+      },
+      {
+        "level": 29,
+        "upgradeCost": 2750000,
+        "point": 29
+      },
+      {
+        "level": 30,
+        "upgradeCost": 2810000,
+        "point": 30
+      },
+      {
+        "level": 31,
+        "upgradeCost": 2860000,
+        "point": 31
+      },
+      {
+        "level": 32,
+        "upgradeCost": 2910000,
+        "point": 32
+      },
+      {
+        "level": 33,
+        "upgradeCost": 2960000,
+        "point": 33
+      },
+      {
+        "level": 34,
+        "upgradeCost": 3010000,
+        "point": 34
+      },
+      {
+        "level": 35,
+        "upgradeCost": 3060000,
+        "point": 35
+      },
+      {
+        "level": 36,
+        "upgradeCost": 3110000,
+        "point": 36
+      },
+      {
+        "level": 37,
+        "upgradeCost": 3160000,
+        "point": 37
+      },
+      {
+        "level": 38,
+        "upgradeCost": 3200000,
+        "point": 38
+      },
+      {
+        "level": 39,
+        "upgradeCost": 3250000,
+        "point": 39
+      },
+      {
+        "level": 40,
+        "upgradeCost": 3290000,
+        "point": 40
+      },
+      {
+        "level": 41,
+        "upgradeCost": 3330000,
+        "point": 41
+      },
+      {
+        "level": 42,
+        "upgradeCost": 3380000,
+        "point": 42
+      },
+      {
+        "level": 43,
+        "upgradeCost": 3420000,
+        "point": 43
+      },
+      {
+        "level": 44,
+        "upgradeCost": 3460000,
+        "point": 44
+      },
+      {
+        "level": 45,
+        "upgradeCost": 3500000,
+        "point": 45
+      },
+      {
+        "level": 46,
+        "upgradeCost": 3540000,
+        "point": 46
+      },
+      {
+        "level": 47,
+        "upgradeCost": 3580000,
+        "point": 47
+      },
+      {
+        "level": 48,
+        "upgradeCost": 3610000,
+        "point": 48
+      },
+      {
+        "level": 49,
+        "upgradeCost": 3650000,
+        "point": 49
+      },
+      {
+        "level": 50,
+        "upgradeCost": 3690000,
+        "point": 50
+      },
+      {
+        "level": 51,
+        "upgradeCost": 3720000,
+        "point": 51
+      },
+      {
+        "level": 52,
+        "upgradeCost": 3760000,
+        "point": 52
+      },
+      {
+        "level": 53,
+        "upgradeCost": 3790000,
+        "point": 53
+      },
+      {
+        "level": 54,
+        "upgradeCost": 3830000,
+        "point": 54
+      },
+      {
+        "level": 55,
+        "upgradeCost": 3860000,
+        "point": 55
+      },
+      {
+        "level": 56,
+        "upgradeCost": 3890000,
+        "point": 56
+      },
+      {
+        "level": 57,
+        "upgradeCost": 3930000,
+        "point": 57
+      },
+      {
+        "level": 58,
+        "upgradeCost": 3960000,
+        "point": 58
+      },
+      {
+        "level": 59,
+        "upgradeCost": 3990000,
+        "point": 59
+      },
+      {
+        "level": 60,
+        "upgradeCost": 4020000,
+        "point": 60
+      },
+      {
+        "level": 61,
+        "upgradeCost": 4050000,
+        "point": 61
+      },
+      {
+        "level": 62,
+        "upgradeCost": 4080000,
+        "point": 62
+      },
+      {
+        "level": 63,
+        "upgradeCost": 4110000,
+        "point": 63
+      },
+      {
+        "level": 64,
+        "upgradeCost": 4140000,
+        "point": 64
+      },
+      {
+        "level": 65,
+        "upgradeCost": 4170000,
+        "point": 65
+      },
+      {
+        "level": 66,
+        "upgradeCost": 4200000,
+        "point": 66
+      },
+      {
+        "level": 67,
+        "upgradeCost": 4230000,
+        "point": 67
+      },
+      {
+        "level": 68,
+        "upgradeCost": 4260000,
+        "point": 68
+      },
+      {
+        "level": 69,
+        "upgradeCost": 4280000,
+        "point": 69
+      },
+      {
+        "level": 70,
+        "upgradeCost": 4310000,
+        "point": 70
+      },
+      {
+        "level": 71,
+        "upgradeCost": 4340000,
+        "point": 71
+      },
+      {
+        "level": 72,
+        "upgradeCost": 4360000,
+        "point": 72
+      },
+      {
+        "level": 73,
+        "upgradeCost": 4390000,
+        "point": 73
+      },
+      {
+        "level": 74,
+        "upgradeCost": 4420000,
+        "point": 74
+      },
+      {
+        "level": 75,
+        "upgradeCost": 4440000,
+        "point": 75
+      },
+      {
+        "level": 76,
+        "upgradeCost": 4470000,
+        "point": 76
+      },
+      {
+        "level": 77,
+        "upgradeCost": 4490000,
+        "point": 77
+      },
+      {
+        "level": 78,
+        "upgradeCost": 4520000,
+        "point": 78
+      },
+      {
+        "level": 79,
+        "upgradeCost": 4540000,
+        "point": 79
+      },
+      {
+        "level": 80,
+        "upgradeCost": 4570000,
+        "point": 80
+      },
+      {
+        "level": 81,
+        "upgradeCost": 4590000,
+        "point": 81
+      },
+      {
+        "level": 82,
+        "upgradeCost": 4610000,
+        "point": 82
+      },
+      {
+        "level": 83,
+        "upgradeCost": 4640000,
+        "point": 83
+      },
+      {
+        "level": 84,
+        "upgradeCost": 4660000,
+        "point": 84
+      },
+      {
+        "level": 85,
+        "upgradeCost": 4680000,
+        "point": 85
+      },
+      {
+        "level": 86,
+        "upgradeCost": 4700000,
+        "point": 86
+      },
+      {
+        "level": 87,
+        "upgradeCost": 4730000,
+        "point": 87
+      },
+      {
+        "level": 88,
+        "upgradeCost": 4750000,
+        "point": 88
+      },
+      {
+        "level": 89,
+        "upgradeCost": 4770000,
+        "point": 89
+      },
+      {
+        "level": 90,
+        "upgradeCost": 4790000,
+        "point": 90
+      },
+      {
+        "level": 91,
+        "upgradeCost": 4820000,
+        "point": 91
+      },
+      {
+        "level": 92,
+        "upgradeCost": 4840000,
+        "point": 92
+      },
+      {
+        "level": 93,
+        "upgradeCost": 4860000,
+        "point": 93
+      },
+      {
+        "level": 94,
+        "upgradeCost": 4880000,
+        "point": 94
+      },
+      {
+        "level": 95,
+        "upgradeCost": 4900000,
+        "point": 95
+      },
+      {
+        "level": 96,
+        "upgradeCost": 4920000,
+        "point": 96
+      },
+      {
+        "level": 97,
+        "upgradeCost": 4940000,
+        "point": 97
+      },
+      {
+        "level": 98,
+        "upgradeCost": 4960000,
+        "point": 98
+      },
+      {
+        "level": 99,
+        "upgradeCost": 4980000,
+        "point": 99
+      },
+      {
+        "level": 100,
+        "upgradeCost": 5000000,
+        "point": 100
+      }
+    ]
+  },
+  {
+    "cardType": 6,
+    "levels": [
+      {
+        "level": 1,
+        "upgradeCost": 10000,
+        "point": 1
+      },
+      {
+        "level": 2,
+        "upgradeCost": 200000,
+        "point": 2
+      },
+      {
+        "level": 3,
+        "upgradeCost": 370000,
+        "point": 3
+      },
+      {
+        "level": 4,
+        "upgradeCost": 530000,
+        "point": 4
+      },
+      {
+        "level": 5,
+        "upgradeCost": 680000,
+        "point": 5
+      },
+      {
+        "level": 6,
+        "upgradeCost": 820000,
+        "point": 6
+      },
+      {
+        "level": 7,
+        "upgradeCost": 950000,
+        "point": 7
+      },
+      {
+        "level": 8,
+        "upgradeCost": 1080000,
+        "point": 8
+      },
+      {
+        "level": 9,
+        "upgradeCost": 1190000,
+        "point": 9
+      },
+      {
+        "level": 10,
+        "upgradeCost": 1310000,
+        "point": 10
+      },
+      {
+        "level": 11,
+        "upgradeCost": 1410000,
+        "point": 11
+      },
+      {
+        "level": 12,
+        "upgradeCost": 1510000,
+        "point": 12
+      },
+      {
+        "level": 13,
+        "upgradeCost": 1610000,
+        "point": 13
+      },
+      {
+        "level": 14,
+        "upgradeCost": 1700000,
+        "point": 14
+      },
+      {
+        "level": 15,
+        "upgradeCost": 1790000,
+        "point": 15
+      },
+      {
+        "level": 16,
+        "upgradeCost": 1870000,
+        "point": 16
+      },
+      {
+        "level": 17,
+        "upgradeCost": 1960000,
+        "point": 17
+      },
+      {
+        "level": 18,
+        "upgradeCost": 2030000,
+        "point": 18
+      },
+      {
+        "level": 19,
+        "upgradeCost": 2110000,
+        "point": 19
+      },
+      {
+        "level": 20,
+        "upgradeCost": 2180000,
+        "point": 20
+      },
+      {
+        "level": 21,
+        "upgradeCost": 2260000,
+        "point": 21
+      },
+      {
+        "level": 22,
+        "upgradeCost": 2320000,
+        "point": 22
+      },
+      {
+        "level": 23,
+        "upgradeCost": 2390000,
+        "point": 23
+      },
+      {
+        "level": 24,
+        "upgradeCost": 2460000,
+        "point": 24
+      },
+      {
+        "level": 25,
+        "upgradeCost": 2520000,
+        "point": 25
+      },
+      {
+        "level": 26,
+        "upgradeCost": 2580000,
+        "point": 26
+      },
+      {
+        "level": 27,
+        "upgradeCost": 2640000,
+        "point": 27
+      },
+      {
+        "level": 28,
+        "upgradeCost": 2700000,
+        "point": 28
+      },
+      {
+        "level": 29,
+        "upgradeCost": 2750000,
+        "point": 29
+      },
+      {
+        "level": 30,
+        "upgradeCost": 2810000,
+        "point": 30
+      },
+      {
+        "level": 31,
+        "upgradeCost": 2860000,
+        "point": 31
+      },
+      {
+        "level": 32,
+        "upgradeCost": 2910000,
+        "point": 32
+      },
+      {
+        "level": 33,
+        "upgradeCost": 2960000,
+        "point": 33
+      },
+      {
+        "level": 34,
+        "upgradeCost": 3010000,
+        "point": 34
+      },
+      {
+        "level": 35,
+        "upgradeCost": 3060000,
+        "point": 35
+      },
+      {
+        "level": 36,
+        "upgradeCost": 3110000,
+        "point": 36
+      },
+      {
+        "level": 37,
+        "upgradeCost": 3160000,
+        "point": 37
+      },
+      {
+        "level": 38,
+        "upgradeCost": 3200000,
+        "point": 38
+      },
+      {
+        "level": 39,
+        "upgradeCost": 3250000,
+        "point": 39
+      },
+      {
+        "level": 40,
+        "upgradeCost": 3290000,
+        "point": 40
+      },
+      {
+        "level": 41,
+        "upgradeCost": 3330000,
+        "point": 41
+      },
+      {
+        "level": 42,
+        "upgradeCost": 3380000,
+        "point": 42
+      },
+      {
+        "level": 43,
+        "upgradeCost": 3420000,
+        "point": 43
+      },
+      {
+        "level": 44,
+        "upgradeCost": 3460000,
+        "point": 44
+      },
+      {
+        "level": 45,
+        "upgradeCost": 3500000,
+        "point": 45
+      },
+      {
+        "level": 46,
+        "upgradeCost": 3540000,
+        "point": 46
+      },
+      {
+        "level": 47,
+        "upgradeCost": 3580000,
+        "point": 47
+      },
+      {
+        "level": 48,
+        "upgradeCost": 3610000,
+        "point": 48
+      },
+      {
+        "level": 49,
+        "upgradeCost": 3650000,
+        "point": 49
+      },
+      {
+        "level": 50,
+        "upgradeCost": 3690000,
+        "point": 50
+      },
+      {
+        "level": 51,
+        "upgradeCost": 3720000,
+        "point": 51
+      },
+      {
+        "level": 52,
+        "upgradeCost": 3760000,
+        "point": 52
+      },
+      {
+        "level": 53,
+        "upgradeCost": 3790000,
+        "point": 53
+      },
+      {
+        "level": 54,
+        "upgradeCost": 3830000,
+        "point": 54
+      },
+      {
+        "level": 55,
+        "upgradeCost": 3860000,
+        "point": 55
+      },
+      {
+        "level": 56,
+        "upgradeCost": 3890000,
+        "point": 56
+      },
+      {
+        "level": 57,
+        "upgradeCost": 3930000,
+        "point": 57
+      },
+      {
+        "level": 58,
+        "upgradeCost": 3960000,
+        "point": 58
+      },
+      {
+        "level": 59,
+        "upgradeCost": 3990000,
+        "point": 59
+      },
+      {
+        "level": 60,
+        "upgradeCost": 4020000,
+        "point": 60
+      },
+      {
+        "level": 61,
+        "upgradeCost": 4050000,
+        "point": 61
+      },
+      {
+        "level": 62,
+        "upgradeCost": 4080000,
+        "point": 62
+      },
+      {
+        "level": 63,
+        "upgradeCost": 4110000,
+        "point": 63
+      },
+      {
+        "level": 64,
+        "upgradeCost": 4140000,
+        "point": 64
+      },
+      {
+        "level": 65,
+        "upgradeCost": 4170000,
+        "point": 65
+      },
+      {
+        "level": 66,
+        "upgradeCost": 4200000,
+        "point": 66
+      },
+      {
+        "level": 67,
+        "upgradeCost": 4230000,
+        "point": 67
+      },
+      {
+        "level": 68,
+        "upgradeCost": 4260000,
+        "point": 68
+      },
+      {
+        "level": 69,
+        "upgradeCost": 4280000,
+        "point": 69
+      },
+      {
+        "level": 70,
+        "upgradeCost": 4310000,
+        "point": 70
+      },
+      {
+        "level": 71,
+        "upgradeCost": 4340000,
+        "point": 71
+      },
+      {
+        "level": 72,
+        "upgradeCost": 4360000,
+        "point": 72
+      },
+      {
+        "level": 73,
+        "upgradeCost": 4390000,
+        "point": 73
+      },
+      {
+        "level": 74,
+        "upgradeCost": 4420000,
+        "point": 74
+      },
+      {
+        "level": 75,
+        "upgradeCost": 4440000,
+        "point": 75
+      },
+      {
+        "level": 76,
+        "upgradeCost": 4470000,
+        "point": 76
+      },
+      {
+        "level": 77,
+        "upgradeCost": 4490000,
+        "point": 77
+      },
+      {
+        "level": 78,
+        "upgradeCost": 4520000,
+        "point": 78
+      },
+      {
+        "level": 79,
+        "upgradeCost": 4540000,
+        "point": 79
+      },
+      {
+        "level": 80,
+        "upgradeCost": 4570000,
+        "point": 80
+      },
+      {
+        "level": 81,
+        "upgradeCost": 4590000,
+        "point": 81
+      },
+      {
+        "level": 82,
+        "upgradeCost": 4610000,
+        "point": 82
+      },
+      {
+        "level": 83,
+        "upgradeCost": 4640000,
+        "point": 83
+      },
+      {
+        "level": 84,
+        "upgradeCost": 4660000,
+        "point": 84
+      },
+      {
+        "level": 85,
+        "upgradeCost": 4680000,
+        "point": 85
+      },
+      {
+        "level": 86,
+        "upgradeCost": 4700000,
+        "point": 86
+      },
+      {
+        "level": 87,
+        "upgradeCost": 4730000,
+        "point": 87
+      },
+      {
+        "level": 88,
+        "upgradeCost": 4750000,
+        "point": 88
+      },
+      {
+        "level": 89,
+        "upgradeCost": 4770000,
+        "point": 89
+      },
+      {
+        "level": 90,
+        "upgradeCost": 4790000,
+        "point": 90
+      },
+      {
+        "level": 91,
+        "upgradeCost": 4820000,
+        "point": 91
+      },
+      {
+        "level": 92,
+        "upgradeCost": 4840000,
+        "point": 92
+      },
+      {
+        "level": 93,
+        "upgradeCost": 4860000,
+        "point": 93
+      },
+      {
+        "level": 94,
+        "upgradeCost": 4880000,
+        "point": 94
+      },
+      {
+        "level": 95,
+        "upgradeCost": 4900000,
+        "point": 95
+      },
+      {
+        "level": 96,
+        "upgradeCost": 4920000,
+        "point": 96
+      },
+      {
+        "level": 97,
+        "upgradeCost": 4940000,
+        "point": 97
+      },
+      {
+        "level": 98,
+        "upgradeCost": 4960000,
+        "point": 98
+      },
+      {
+        "level": 99,
+        "upgradeCost": 4980000,
+        "point": 99
+      },
+      {
+        "level": 100,
+        "upgradeCost": 5000000,
+        "point": 100
+      }
+    ]
+  },
+  {
+    "cardType": 7,
+    "levels": [
+      {
+        "level": 1,
+        "upgradeCost": 10000,
+        "point": 1
+      },
+      {
+        "level": 2,
+        "upgradeCost": 200000,
+        "point": 2
+      },
+      {
+        "level": 3,
+        "upgradeCost": 370000,
+        "point": 3
+      },
+      {
+        "level": 4,
+        "upgradeCost": 530000,
+        "point": 4
+      },
+      {
+        "level": 5,
+        "upgradeCost": 680000,
+        "point": 5
+      },
+      {
+        "level": 6,
+        "upgradeCost": 820000,
+        "point": 6
+      },
+      {
+        "level": 7,
+        "upgradeCost": 950000,
+        "point": 7
+      },
+      {
+        "level": 8,
+        "upgradeCost": 1080000,
+        "point": 8
+      },
+      {
+        "level": 9,
+        "upgradeCost": 1190000,
+        "point": 9
+      },
+      {
+        "level": 10,
+        "upgradeCost": 1310000,
+        "point": 10
+      },
+      {
+        "level": 11,
+        "upgradeCost": 1410000,
+        "point": 11
+      },
+      {
+        "level": 12,
+        "upgradeCost": 1510000,
+        "point": 12
+      },
+      {
+        "level": 13,
+        "upgradeCost": 1610000,
+        "point": 13
+      },
+      {
+        "level": 14,
+        "upgradeCost": 1700000,
+        "point": 14
+      },
+      {
+        "level": 15,
+        "upgradeCost": 1790000,
+        "point": 15
+      },
+      {
+        "level": 16,
+        "upgradeCost": 1870000,
+        "point": 16
+      },
+      {
+        "level": 17,
+        "upgradeCost": 1960000,
+        "point": 17
+      },
+      {
+        "level": 18,
+        "upgradeCost": 2030000,
+        "point": 18
+      },
+      {
+        "level": 19,
+        "upgradeCost": 2110000,
+        "point": 19
+      },
+      {
+        "level": 20,
+        "upgradeCost": 2180000,
+        "point": 20
+      },
+      {
+        "level": 21,
+        "upgradeCost": 2260000,
+        "point": 21
+      },
+      {
+        "level": 22,
+        "upgradeCost": 2320000,
+        "point": 22
+      },
+      {
+        "level": 23,
+        "upgradeCost": 2390000,
+        "point": 23
+      },
+      {
+        "level": 24,
+        "upgradeCost": 2460000,
+        "point": 24
+      },
+      {
+        "level": 25,
+        "upgradeCost": 2520000,
+        "point": 25
+      },
+      {
+        "level": 26,
+        "upgradeCost": 2580000,
+        "point": 26
+      },
+      {
+        "level": 27,
+        "upgradeCost": 2640000,
+        "point": 27
+      },
+      {
+        "level": 28,
+        "upgradeCost": 2700000,
+        "point": 28
+      },
+      {
+        "level": 29,
+        "upgradeCost": 2750000,
+        "point": 29
+      },
+      {
+        "level": 30,
+        "upgradeCost": 2810000,
+        "point": 30
+      },
+      {
+        "level": 31,
+        "upgradeCost": 2860000,
+        "point": 31
+      },
+      {
+        "level": 32,
+        "upgradeCost": 2910000,
+        "point": 32
+      },
+      {
+        "level": 33,
+        "upgradeCost": 2960000,
+        "point": 33
+      },
+      {
+        "level": 34,
+        "upgradeCost": 3010000,
+        "point": 34
+      },
+      {
+        "level": 35,
+        "upgradeCost": 3060000,
+        "point": 35
+      },
+      {
+        "level": 36,
+        "upgradeCost": 3110000,
+        "point": 36
+      },
+      {
+        "level": 37,
+        "upgradeCost": 3160000,
+        "point": 37
+      },
+      {
+        "level": 38,
+        "upgradeCost": 3200000,
+        "point": 38
+      },
+      {
+        "level": 39,
+        "upgradeCost": 3250000,
+        "point": 39
+      },
+      {
+        "level": 40,
+        "upgradeCost": 3290000,
+        "point": 40
+      },
+      {
+        "level": 41,
+        "upgradeCost": 3330000,
+        "point": 41
+      },
+      {
+        "level": 42,
+        "upgradeCost": 3380000,
+        "point": 42
+      },
+      {
+        "level": 43,
+        "upgradeCost": 3420000,
+        "point": 43
+      },
+      {
+        "level": 44,
+        "upgradeCost": 3460000,
+        "point": 44
+      },
+      {
+        "level": 45,
+        "upgradeCost": 3500000,
+        "point": 45
+      },
+      {
+        "level": 46,
+        "upgradeCost": 3540000,
+        "point": 46
+      },
+      {
+        "level": 47,
+        "upgradeCost": 3580000,
+        "point": 47
+      },
+      {
+        "level": 48,
+        "upgradeCost": 3610000,
+        "point": 48
+      },
+      {
+        "level": 49,
+        "upgradeCost": 3650000,
+        "point": 49
+      },
+      {
+        "level": 50,
+        "upgradeCost": 3690000,
+        "point": 50
+      },
+      {
+        "level": 51,
+        "upgradeCost": 3720000,
+        "point": 51
+      },
+      {
+        "level": 52,
+        "upgradeCost": 3760000,
+        "point": 52
+      },
+      {
+        "level": 53,
+        "upgradeCost": 3790000,
+        "point": 53
+      },
+      {
+        "level": 54,
+        "upgradeCost": 3830000,
+        "point": 54
+      },
+      {
+        "level": 55,
+        "upgradeCost": 3860000,
+        "point": 55
+      },
+      {
+        "level": 56,
+        "upgradeCost": 3890000,
+        "point": 56
+      },
+      {
+        "level": 57,
+        "upgradeCost": 3930000,
+        "point": 57
+      },
+      {
+        "level": 58,
+        "upgradeCost": 3960000,
+        "point": 58
+      },
+      {
+        "level": 59,
+        "upgradeCost": 3990000,
+        "point": 59
+      },
+      {
+        "level": 60,
+        "upgradeCost": 4020000,
+        "point": 60
+      },
+      {
+        "level": 61,
+        "upgradeCost": 4050000,
+        "point": 61
+      },
+      {
+        "level": 62,
+        "upgradeCost": 4080000,
+        "point": 62
+      },
+      {
+        "level": 63,
+        "upgradeCost": 4110000,
+        "point": 63
+      },
+      {
+        "level": 64,
+        "upgradeCost": 4140000,
+        "point": 64
+      },
+      {
+        "level": 65,
+        "upgradeCost": 4170000,
+        "point": 65
+      },
+      {
+        "level": 66,
+        "upgradeCost": 4200000,
+        "point": 66
+      },
+      {
+        "level": 67,
+        "upgradeCost": 4230000,
+        "point": 67
+      },
+      {
+        "level": 68,
+        "upgradeCost": 4260000,
+        "point": 68
+      },
+      {
+        "level": 69,
+        "upgradeCost": 4280000,
+        "point": 69
+      },
+      {
+        "level": 70,
+        "upgradeCost": 4310000,
+        "point": 70
+      },
+      {
+        "level": 71,
+        "upgradeCost": 4340000,
+        "point": 71
+      },
+      {
+        "level": 72,
+        "upgradeCost": 4360000,
+        "point": 72
+      },
+      {
+        "level": 73,
+        "upgradeCost": 4390000,
+        "point": 73
+      },
+      {
+        "level": 74,
+        "upgradeCost": 4420000,
+        "point": 74
+      },
+      {
+        "level": 75,
+        "upgradeCost": 4440000,
+        "point": 75
+      },
+      {
+        "level": 76,
+        "upgradeCost": 4470000,
+        "point": 76
+      },
+      {
+        "level": 77,
+        "upgradeCost": 4490000,
+        "point": 77
+      },
+      {
+        "level": 78,
+        "upgradeCost": 4520000,
+        "point": 78
+      },
+      {
+        "level": 79,
+        "upgradeCost": 4540000,
+        "point": 79
+      },
+      {
+        "level": 80,
+        "upgradeCost": 4570000,
+        "point": 80
+      },
+      {
+        "level": 81,
+        "upgradeCost": 4590000,
+        "point": 81
+      },
+      {
+        "level": 82,
+        "upgradeCost": 4610000,
+        "point": 82
+      },
+      {
+        "level": 83,
+        "upgradeCost": 4640000,
+        "point": 83
+      },
+      {
+        "level": 84,
+        "upgradeCost": 4660000,
+        "point": 84
+      },
+      {
+        "level": 85,
+        "upgradeCost": 4680000,
+        "point": 85
+      },
+      {
+        "level": 86,
+        "upgradeCost": 4700000,
+        "point": 86
+      },
+      {
+        "level": 87,
+        "upgradeCost": 4730000,
+        "point": 87
+      },
+      {
+        "level": 88,
+        "upgradeCost": 4750000,
+        "point": 88
+      },
+      {
+        "level": 89,
+        "upgradeCost": 4770000,
+        "point": 89
+      },
+      {
+        "level": 90,
+        "upgradeCost": 4790000,
+        "point": 90
+      },
+      {
+        "level": 91,
+        "upgradeCost": 4820000,
+        "point": 91
+      },
+      {
+        "level": 92,
+        "upgradeCost": 4840000,
+        "point": 92
+      },
+      {
+        "level": 93,
+        "upgradeCost": 4860000,
+        "point": 93
+      },
+      {
+        "level": 94,
+        "upgradeCost": 4880000,
+        "point": 94
+      },
+      {
+        "level": 95,
+        "upgradeCost": 4900000,
+        "point": 95
+      },
+      {
+        "level": 96,
+        "upgradeCost": 4920000,
+        "point": 96
+      },
+      {
+        "level": 97,
+        "upgradeCost": 4940000,
+        "point": 97
+      },
+      {
+        "level": 98,
+        "upgradeCost": 4960000,
+        "point": 98
+      },
+      {
+        "level": 99,
+        "upgradeCost": 4980000,
+        "point": 99
+      },
+      {
+        "level": 100,
+        "upgradeCost": 5000000,
+        "point": 100
+      }
+    ]
+  },
+  {
+    "cardType": 8,
+    "levels": [
+      {
+        "level": 1,
+        "upgradeCost": 10000,
+        "point": 1
+      },
+      {
+        "level": 2,
+        "upgradeCost": 200000,
+        "point": 2
+      },
+      {
+        "level": 3,
+        "upgradeCost": 370000,
+        "point": 3
+      },
+      {
+        "level": 4,
+        "upgradeCost": 530000,
+        "point": 4
+      },
+      {
+        "level": 5,
+        "upgradeCost": 680000,
+        "point": 5
+      },
+      {
+        "level": 6,
+        "upgradeCost": 820000,
+        "point": 6
+      },
+      {
+        "level": 7,
+        "upgradeCost": 950000,
+        "point": 7
+      },
+      {
+        "level": 8,
+        "upgradeCost": 1080000,
+        "point": 8
+      },
+      {
+        "level": 9,
+        "upgradeCost": 1190000,
+        "point": 9
+      },
+      {
+        "level": 10,
+        "upgradeCost": 1310000,
+        "point": 10
+      },
+      {
+        "level": 11,
+        "upgradeCost": 1410000,
+        "point": 11
+      },
+      {
+        "level": 12,
+        "upgradeCost": 1510000,
+        "point": 12
+      },
+      {
+        "level": 13,
+        "upgradeCost": 1610000,
+        "point": 13
+      },
+      {
+        "level": 14,
+        "upgradeCost": 1700000,
+        "point": 14
+      },
+      {
+        "level": 15,
+        "upgradeCost": 1790000,
+        "point": 15
+      },
+      {
+        "level": 16,
+        "upgradeCost": 1870000,
+        "point": 16
+      },
+      {
+        "level": 17,
+        "upgradeCost": 1960000,
+        "point": 17
+      },
+      {
+        "level": 18,
+        "upgradeCost": 2030000,
+        "point": 18
+      },
+      {
+        "level": 19,
+        "upgradeCost": 2110000,
+        "point": 19
+      },
+      {
+        "level": 20,
+        "upgradeCost": 2180000,
+        "point": 20
+      },
+      {
+        "level": 21,
+        "upgradeCost": 2260000,
+        "point": 21
+      },
+      {
+        "level": 22,
+        "upgradeCost": 2320000,
+        "point": 22
+      },
+      {
+        "level": 23,
+        "upgradeCost": 2390000,
+        "point": 23
+      },
+      {
+        "level": 24,
+        "upgradeCost": 2460000,
+        "point": 24
+      },
+      {
+        "level": 25,
+        "upgradeCost": 2520000,
+        "point": 25
+      },
+      {
+        "level": 26,
+        "upgradeCost": 2580000,
+        "point": 26
+      },
+      {
+        "level": 27,
+        "upgradeCost": 2640000,
+        "point": 27
+      },
+      {
+        "level": 28,
+        "upgradeCost": 2700000,
+        "point": 28
+      },
+      {
+        "level": 29,
+        "upgradeCost": 2750000,
+        "point": 29
+      },
+      {
+        "level": 30,
+        "upgradeCost": 2810000,
+        "point": 30
+      },
+      {
+        "level": 31,
+        "upgradeCost": 2860000,
+        "point": 31
+      },
+      {
+        "level": 32,
+        "upgradeCost": 2910000,
+        "point": 32
+      },
+      {
+        "level": 33,
+        "upgradeCost": 2960000,
+        "point": 33
+      },
+      {
+        "level": 34,
+        "upgradeCost": 3010000,
+        "point": 34
+      },
+      {
+        "level": 35,
+        "upgradeCost": 3060000,
+        "point": 35
+      },
+      {
+        "level": 36,
+        "upgradeCost": 3110000,
+        "point": 36
+      },
+      {
+        "level": 37,
+        "upgradeCost": 3160000,
+        "point": 37
+      },
+      {
+        "level": 38,
+        "upgradeCost": 3200000,
+        "point": 38
+      },
+      {
+        "level": 39,
+        "upgradeCost": 3250000,
+        "point": 39
+      },
+      {
+        "level": 40,
+        "upgradeCost": 3290000,
+        "point": 40
+      },
+      {
+        "level": 41,
+        "upgradeCost": 3330000,
+        "point": 41
+      },
+      {
+        "level": 42,
+        "upgradeCost": 3380000,
+        "point": 42
+      },
+      {
+        "level": 43,
+        "upgradeCost": 3420000,
+        "point": 43
+      },
+      {
+        "level": 44,
+        "upgradeCost": 3460000,
+        "point": 44
+      },
+      {
+        "level": 45,
+        "upgradeCost": 3500000,
+        "point": 45
+      },
+      {
+        "level": 46,
+        "upgradeCost": 3540000,
+        "point": 46
+      },
+      {
+        "level": 47,
+        "upgradeCost": 3580000,
+        "point": 47
+      },
+      {
+        "level": 48,
+        "upgradeCost": 3610000,
+        "point": 48
+      },
+      {
+        "level": 49,
+        "upgradeCost": 3650000,
+        "point": 49
+      },
+      {
+        "level": 50,
+        "upgradeCost": 3690000,
+        "point": 50
+      },
+      {
+        "level": 51,
+        "upgradeCost": 3720000,
+        "point": 51
+      },
+      {
+        "level": 52,
+        "upgradeCost": 3760000,
+        "point": 52
+      },
+      {
+        "level": 53,
+        "upgradeCost": 3790000,
+        "point": 53
+      },
+      {
+        "level": 54,
+        "upgradeCost": 3830000,
+        "point": 54
+      },
+      {
+        "level": 55,
+        "upgradeCost": 3860000,
+        "point": 55
+      },
+      {
+        "level": 56,
+        "upgradeCost": 3890000,
+        "point": 56
+      },
+      {
+        "level": 57,
+        "upgradeCost": 3930000,
+        "point": 57
+      },
+      {
+        "level": 58,
+        "upgradeCost": 3960000,
+        "point": 58
+      },
+      {
+        "level": 59,
+        "upgradeCost": 3990000,
+        "point": 59
+      },
+      {
+        "level": 60,
+        "upgradeCost": 4020000,
+        "point": 60
+      },
+      {
+        "level": 61,
+        "upgradeCost": 4050000,
+        "point": 61
+      },
+      {
+        "level": 62,
+        "upgradeCost": 4080000,
+        "point": 62
+      },
+      {
+        "level": 63,
+        "upgradeCost": 4110000,
+        "point": 63
+      },
+      {
+        "level": 64,
+        "upgradeCost": 4140000,
+        "point": 64
+      },
+      {
+        "level": 65,
+        "upgradeCost": 4170000,
+        "point": 65
+      },
+      {
+        "level": 66,
+        "upgradeCost": 4200000,
+        "point": 66
+      },
+      {
+        "level": 67,
+        "upgradeCost": 4230000,
+        "point": 67
+      },
+      {
+        "level": 68,
+        "upgradeCost": 4260000,
+        "point": 68
+      },
+      {
+        "level": 69,
+        "upgradeCost": 4280000,
+        "point": 69
+      },
+      {
+        "level": 70,
+        "upgradeCost": 4310000,
+        "point": 70
+      },
+      {
+        "level": 71,
+        "upgradeCost": 4340000,
+        "point": 71
+      },
+      {
+        "level": 72,
+        "upgradeCost": 4360000,
+        "point": 72
+      },
+      {
+        "level": 73,
+        "upgradeCost": 4390000,
+        "point": 73
+      },
+      {
+        "level": 74,
+        "upgradeCost": 4420000,
+        "point": 74
+      },
+      {
+        "level": 75,
+        "upgradeCost": 4440000,
+        "point": 75
+      },
+      {
+        "level": 76,
+        "upgradeCost": 4470000,
+        "point": 76
+      },
+      {
+        "level": 77,
+        "upgradeCost": 4490000,
+        "point": 77
+      },
+      {
+        "level": 78,
+        "upgradeCost": 4520000,
+        "point": 78
+      },
+      {
+        "level": 79,
+        "upgradeCost": 4540000,
+        "point": 79
+      },
+      {
+        "level": 80,
+        "upgradeCost": 4570000,
+        "point": 80
+      },
+      {
+        "level": 81,
+        "upgradeCost": 4590000,
+        "point": 81
+      },
+      {
+        "level": 82,
+        "upgradeCost": 4610000,
+        "point": 82
+      },
+      {
+        "level": 83,
+        "upgradeCost": 4640000,
+        "point": 83
+      },
+      {
+        "level": 84,
+        "upgradeCost": 4660000,
+        "point": 84
+      },
+      {
+        "level": 85,
+        "upgradeCost": 4680000,
+        "point": 85
+      },
+      {
+        "level": 86,
+        "upgradeCost": 4700000,
+        "point": 86
+      },
+      {
+        "level": 87,
+        "upgradeCost": 4730000,
+        "point": 87
+      },
+      {
+        "level": 88,
+        "upgradeCost": 4750000,
+        "point": 88
+      },
+      {
+        "level": 89,
+        "upgradeCost": 4770000,
+        "point": 89
+      },
+      {
+        "level": 90,
+        "upgradeCost": 4790000,
+        "point": 90
+      },
+      {
+        "level": 91,
+        "upgradeCost": 4820000,
+        "point": 91
+      },
+      {
+        "level": 92,
+        "upgradeCost": 4840000,
+        "point": 92
+      },
+      {
+        "level": 93,
+        "upgradeCost": 4860000,
+        "point": 93
+      },
+      {
+        "level": 94,
+        "upgradeCost": 4880000,
+        "point": 94
+      },
+      {
+        "level": 95,
+        "upgradeCost": 4900000,
+        "point": 95
+      },
+      {
+        "level": 96,
+        "upgradeCost": 4920000,
+        "point": 96
+      },
+      {
+        "level": 97,
+        "upgradeCost": 4940000,
+        "point": 97
+      },
+      {
+        "level": 98,
+        "upgradeCost": 4960000,
+        "point": 98
+      },
+      {
+        "level": 99,
+        "upgradeCost": 4980000,
+        "point": 99
+      },
+      {
+        "level": 100,
+        "upgradeCost": 5000000,
+        "point": 100
+      }
+    ]
+  },
+  {
+    "cardType": 9,
+    "levels": [
+      {
+        "level": 1,
+        "upgradeCost": 10000,
+        "point": 1
+      },
+      {
+        "level": 2,
+        "upgradeCost": 200000,
+        "point": 2
+      },
+      {
+        "level": 3,
+        "upgradeCost": 370000,
+        "point": 3
+      },
+      {
+        "level": 4,
+        "upgradeCost": 530000,
+        "point": 4
+      },
+      {
+        "level": 5,
+        "upgradeCost": 680000,
+        "point": 5
+      },
+      {
+        "level": 6,
+        "upgradeCost": 820000,
+        "point": 6
+      },
+      {
+        "level": 7,
+        "upgradeCost": 950000,
+        "point": 7
+      },
+      {
+        "level": 8,
+        "upgradeCost": 1080000,
+        "point": 8
+      },
+      {
+        "level": 9,
+        "upgradeCost": 1190000,
+        "point": 9
+      },
+      {
+        "level": 10,
+        "upgradeCost": 1310000,
+        "point": 10
+      },
+      {
+        "level": 11,
+        "upgradeCost": 1410000,
+        "point": 11
+      },
+      {
+        "level": 12,
+        "upgradeCost": 1510000,
+        "point": 12
+      },
+      {
+        "level": 13,
+        "upgradeCost": 1610000,
+        "point": 13
+      },
+      {
+        "level": 14,
+        "upgradeCost": 1700000,
+        "point": 14
+      },
+      {
+        "level": 15,
+        "upgradeCost": 1790000,
+        "point": 15
+      },
+      {
+        "level": 16,
+        "upgradeCost": 1870000,
+        "point": 16
+      },
+      {
+        "level": 17,
+        "upgradeCost": 1960000,
+        "point": 17
+      },
+      {
+        "level": 18,
+        "upgradeCost": 2030000,
+        "point": 18
+      },
+      {
+        "level": 19,
+        "upgradeCost": 2110000,
+        "point": 19
+      },
+      {
+        "level": 20,
+        "upgradeCost": 2180000,
+        "point": 20
+      },
+      {
+        "level": 21,
+        "upgradeCost": 2260000,
+        "point": 21
+      },
+      {
+        "level": 22,
+        "upgradeCost": 2320000,
+        "point": 22
+      },
+      {
+        "level": 23,
+        "upgradeCost": 2390000,
+        "point": 23
+      },
+      {
+        "level": 24,
+        "upgradeCost": 2460000,
+        "point": 24
+      },
+      {
+        "level": 25,
+        "upgradeCost": 2520000,
+        "point": 25
+      },
+      {
+        "level": 26,
+        "upgradeCost": 2580000,
+        "point": 26
+      },
+      {
+        "level": 27,
+        "upgradeCost": 2640000,
+        "point": 27
+      },
+      {
+        "level": 28,
+        "upgradeCost": 2700000,
+        "point": 28
+      },
+      {
+        "level": 29,
+        "upgradeCost": 2750000,
+        "point": 29
+      },
+      {
+        "level": 30,
+        "upgradeCost": 2810000,
+        "point": 30
+      },
+      {
+        "level": 31,
+        "upgradeCost": 2860000,
+        "point": 31
+      },
+      {
+        "level": 32,
+        "upgradeCost": 2910000,
+        "point": 32
+      },
+      {
+        "level": 33,
+        "upgradeCost": 2960000,
+        "point": 33
+      },
+      {
+        "level": 34,
+        "upgradeCost": 3010000,
+        "point": 34
+      },
+      {
+        "level": 35,
+        "upgradeCost": 3060000,
+        "point": 35
+      },
+      {
+        "level": 36,
+        "upgradeCost": 3110000,
+        "point": 36
+      },
+      {
+        "level": 37,
+        "upgradeCost": 3160000,
+        "point": 37
+      },
+      {
+        "level": 38,
+        "upgradeCost": 3200000,
+        "point": 38
+      },
+      {
+        "level": 39,
+        "upgradeCost": 3250000,
+        "point": 39
+      },
+      {
+        "level": 40,
+        "upgradeCost": 3290000,
+        "point": 40
+      },
+      {
+        "level": 41,
+        "upgradeCost": 3330000,
+        "point": 41
+      },
+      {
+        "level": 42,
+        "upgradeCost": 3380000,
+        "point": 42
+      },
+      {
+        "level": 43,
+        "upgradeCost": 3420000,
+        "point": 43
+      },
+      {
+        "level": 44,
+        "upgradeCost": 3460000,
+        "point": 44
+      },
+      {
+        "level": 45,
+        "upgradeCost": 3500000,
+        "point": 45
+      },
+      {
+        "level": 46,
+        "upgradeCost": 3540000,
+        "point": 46
+      },
+      {
+        "level": 47,
+        "upgradeCost": 3580000,
+        "point": 47
+      },
+      {
+        "level": 48,
+        "upgradeCost": 3610000,
+        "point": 48
+      },
+      {
+        "level": 49,
+        "upgradeCost": 3650000,
+        "point": 49
+      },
+      {
+        "level": 50,
+        "upgradeCost": 3690000,
+        "point": 50
+      },
+      {
+        "level": 51,
+        "upgradeCost": 3720000,
+        "point": 51
+      },
+      {
+        "level": 52,
+        "upgradeCost": 3760000,
+        "point": 52
+      },
+      {
+        "level": 53,
+        "upgradeCost": 3790000,
+        "point": 53
+      },
+      {
+        "level": 54,
+        "upgradeCost": 3830000,
+        "point": 54
+      },
+      {
+        "level": 55,
+        "upgradeCost": 3860000,
+        "point": 55
+      },
+      {
+        "level": 56,
+        "upgradeCost": 3890000,
+        "point": 56
+      },
+      {
+        "level": 57,
+        "upgradeCost": 3930000,
+        "point": 57
+      },
+      {
+        "level": 58,
+        "upgradeCost": 3960000,
+        "point": 58
+      },
+      {
+        "level": 59,
+        "upgradeCost": 3990000,
+        "point": 59
+      },
+      {
+        "level": 60,
+        "upgradeCost": 4020000,
+        "point": 60
+      },
+      {
+        "level": 61,
+        "upgradeCost": 4050000,
+        "point": 61
+      },
+      {
+        "level": 62,
+        "upgradeCost": 4080000,
+        "point": 62
+      },
+      {
+        "level": 63,
+        "upgradeCost": 4110000,
+        "point": 63
+      },
+      {
+        "level": 64,
+        "upgradeCost": 4140000,
+        "point": 64
+      },
+      {
+        "level": 65,
+        "upgradeCost": 4170000,
+        "point": 65
+      },
+      {
+        "level": 66,
+        "upgradeCost": 4200000,
+        "point": 66
+      },
+      {
+        "level": 67,
+        "upgradeCost": 4230000,
+        "point": 67
+      },
+      {
+        "level": 68,
+        "upgradeCost": 4260000,
+        "point": 68
+      },
+      {
+        "level": 69,
+        "upgradeCost": 4280000,
+        "point": 69
+      },
+      {
+        "level": 70,
+        "upgradeCost": 4310000,
+        "point": 70
+      },
+      {
+        "level": 71,
+        "upgradeCost": 4340000,
+        "point": 71
+      },
+      {
+        "level": 72,
+        "upgradeCost": 4360000,
+        "point": 72
+      },
+      {
+        "level": 73,
+        "upgradeCost": 4390000,
+        "point": 73
+      },
+      {
+        "level": 74,
+        "upgradeCost": 4420000,
+        "point": 74
+      },
+      {
+        "level": 75,
+        "upgradeCost": 4440000,
+        "point": 75
+      },
+      {
+        "level": 76,
+        "upgradeCost": 4470000,
+        "point": 76
+      },
+      {
+        "level": 77,
+        "upgradeCost": 4490000,
+        "point": 77
+      },
+      {
+        "level": 78,
+        "upgradeCost": 4520000,
+        "point": 78
+      },
+      {
+        "level": 79,
+        "upgradeCost": 4540000,
+        "point": 79
+      },
+      {
+        "level": 80,
+        "upgradeCost": 4570000,
+        "point": 80
+      },
+      {
+        "level": 81,
+        "upgradeCost": 4590000,
+        "point": 81
+      },
+      {
+        "level": 82,
+        "upgradeCost": 4610000,
+        "point": 82
+      },
+      {
+        "level": 83,
+        "upgradeCost": 4640000,
+        "point": 83
+      },
+      {
+        "level": 84,
+        "upgradeCost": 4660000,
+        "point": 84
+      },
+      {
+        "level": 85,
+        "upgradeCost": 4680000,
+        "point": 85
+      },
+      {
+        "level": 86,
+        "upgradeCost": 4700000,
+        "point": 86
+      },
+      {
+        "level": 87,
+        "upgradeCost": 4730000,
+        "point": 87
+      },
+      {
+        "level": 88,
+        "upgradeCost": 4750000,
+        "point": 88
+      },
+      {
+        "level": 89,
+        "upgradeCost": 4770000,
+        "point": 89
+      },
+      {
+        "level": 90,
+        "upgradeCost": 4790000,
+        "point": 90
+      },
+      {
+        "level": 91,
+        "upgradeCost": 4820000,
+        "point": 91
+      },
+      {
+        "level": 92,
+        "upgradeCost": 4840000,
+        "point": 92
+      },
+      {
+        "level": 93,
+        "upgradeCost": 4860000,
+        "point": 93
+      },
+      {
+        "level": 94,
+        "upgradeCost": 4880000,
+        "point": 94
+      },
+      {
+        "level": 95,
+        "upgradeCost": 4900000,
+        "point": 95
+      },
+      {
+        "level": 96,
+        "upgradeCost": 4920000,
+        "point": 96
+      },
+      {
+        "level": 97,
+        "upgradeCost": 4940000,
+        "point": 97
+      },
+      {
+        "level": 98,
+        "upgradeCost": 4960000,
+        "point": 98
+      },
+      {
+        "level": 99,
+        "upgradeCost": 4980000,
+        "point": 99
+      },
+      {
+        "level": 100,
+        "upgradeCost": 5000000,
+        "point": 100
+      }
+    ]
+  }
+]
